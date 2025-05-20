@@ -1,0 +1,46 @@
+{
+    "Locoregional Treatment of cT1\u20133, cN0 or cN+, M0 Disease: Breast-Conserving Surgery (BCS) + Whole Breast RT": {
+        "Surgery": {
+            "Procedure": "BCS\u2071,\u02b2 \u00b1 surgical axillary staging category 1\u1d4f,\u02e1,\u1d50",
+            "Options": [
+                "\u00b1 oncoplastic reconstruction\u207f"
+            ]
+        },
+        "Adjuvant Systemic Therapy": {
+            "Guidelines": [
+                "See BINV-4 to determine whether adjuvant systemic therapy is indicated.",
+                "RT is typically given after systemic therapy.",
+                "See BINV-I for sequencing of systemic therapy and RT."
+            ]
+        },
+        "Nodal Status": {
+            "pN0 or cN0\u2070,\u1d56,\u146b": {
+                "RT": [
+                    "Whole breast RT \u00b1 boost\u2075 to tumor bed",
+                    "Consider comprehensive RNI in patients with central/medial tumors, pT3 tumors, or pT2 tumors and one of: grade 3, extensive lymphovascular invasion (LVI), or hormone-receptor (HR)-negative\u1d57",
+                    "Consider APBI/PBI in selected low-risk patients (category 1)\u02e2,\u1d58",
+                    "Consider omitting breast irradiation if adjuvant endocrine therapy is planned and ALL of the following (category 1):",
+                    [
+                        "\u226570 y, HR+, HER2-negative, cN0, pT1 (\u22642cm)\u1d57",
+                        "\u226565 y, HR+, HER2-negative, pN0, pT \u22643 cm\u1d57"
+                    ]
+                ]
+            },
+            "pN1a (1\u20133 positive axillary nodes)": {
+                "Meets ALL of the following": [
+                    "cT1\u2013T3, cN0",
+                    "No preoperative chemotherapy",
+                    "1\u20132 positive sentinel lymph nodes (SLNs)",
+                    "Whole breast RT planned"
+                ],
+                "RT": {
+                    "Yes to all": "Whole breast RT \u00b1 boost (use of comprehensive RNI with or without intentional inclusion of axilla at discretion of radiation oncologist) (category 1)",
+                    "No": "Whole breast RT with inclusion of any portion of the undissected axilla at risk \u00b1 boost\u2075 to tumor bed (category 1). Strongly consider comprehensive RNI."
+                }
+            },
+            "pN2\u20133\u02b3 (\u22654 positive axillary nodes)": {
+                "RT": "Whole breast RT \u00b1 boost\u2075 to tumor bed (category 1) + comprehensive RNI, including any portion of the undissected axilla at risk (category 1)"
+            }
+        }
+    }
+}

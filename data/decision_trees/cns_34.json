@@ -1,0 +1,22 @@
+{
+    "Follow-up": {
+      "Spine MRI/CT": "1–3 months after treatment, then every 3–4 months for 1 year, then as clinically indicated",
+      "Presentation (Symptom- or MRI-based)": {
+        "Progressive disease or Recurrent disease": {
+          "If previously treated with RT or Surgery and RT": {
+            "Treatment for recurrence or progressive disease": [
+              "Surgery or SBRT",
+              "Reirradiation if recurrent",
+              "Radioablation/augmentation for recurrent painful lesions"
+            ]
+          },
+          "If previously treated with Systemic therapy": {
+            "Treatment for recurrence or progressive disease": [
+              "Consider surgery + RT"
+            ]
+          }
+        }
+      }
+    }
+  }
+  

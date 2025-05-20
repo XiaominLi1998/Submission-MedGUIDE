@@ -1,0 +1,31 @@
+{
+    "Evaluation and Treatment of CNS Leukemia": {
+        "At diagnosis, neurologic symptoms\u1d47": {
+            "CT/MRI to rule out bleed or mass effect": {
+                "Negative mass effect": {
+                    "LP\u1d48": {
+                        "Negative": "Observe and repeat LP if symptoms persist",
+                        "Positive by morphology or immunotype by flow cytometry\u1d49": "IT chemotherapy\u1da0 2x/wk until clear, then weekly x 4\u20136 wks\u1d43"
+                    }
+                },
+                "Positive mass effect or increased intracranial pressure": {
+                    "Consider fine-needle aspiration (FNA) or biopsy": {
+                        "Treatment Options": [
+                            "RT\u1d4d followed by IT chemotherapy\u1da0 2x/wk until clear, then weekly x 4\u20136 wks\u1d43",
+                            "Cytarabine-based therapy with doses \u22652 g/m\u00b2 + dexamethasone to reduce intracranial pressure"
+                        ]
+                    }
+                }
+            }
+        },
+        "First CR screening, no neurologic symptoms\u1d9c": {
+            "LP": {
+                "Negative": "Observe and repeat LP if symptoms present",
+                "Cerebrospinal fluid (CSF) positive by morphology or immunotype by flow cytometry\u1d49": [
+                    "IT chemotherapy 2x/wk until clear\u1d43",
+                    "If patient to receive cytarabine \u22652 g/m\u00b2, follow up with LP post therapy to document clearance"
+                ]
+            }
+        }
+    }
+}

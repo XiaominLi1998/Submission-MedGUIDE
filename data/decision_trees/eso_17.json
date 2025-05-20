@@ -1,0 +1,21 @@
+{
+    "Confirm diagnosis": {
+      "No high-risk features": {
+        "Lesion size < 15 mm": {
+          "Treatment": "ER (with either endoscopic submucosal dissection [ESD] or endoscopic mucosal resection [EMR]) ± ablation",
+          "Next step": "Assess for curative resection"
+        },
+        "Lesion size ≥ 15 mm": {
+          "Treatment": "ESD ± ablation",
+          "Next step": "Assess for curative resection"
+        }
+      },
+      "Endoscopic (ulcerated) or pathologic (poorly differentiated or LVI) high-risk features": {
+        "Treatment": [
+          "Esophagectomy for patients who are medically fit (ESOPH-4) (preferred)",
+          "Preoperative or definitive chemoradiation"
+        ]
+      }
+    }
+  }
+  

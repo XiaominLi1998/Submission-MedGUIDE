@@ -1,0 +1,26 @@
+{
+  "Disease Progression": {
+    "Initial Step": "Consider re-biopsy if adequate tissue is not available for molecular profiling",
+    "Performance Status": {
+      "Good or intermediate PSʸ": {
+        "Subsequent Therapy": [
+          "Clinical trial (preferred)",
+          "Systemic therapy†, which may include targeted therapy or immunotherapy based on molecular profilingʲ, as clinically indicated",
+          "RTᵘ for severe pain refractory to analgesic therapy"
+        ],
+        "Next Step": [
+          "Palliative and best supportive careˢ",
+          "Clinical trial"
+        ]
+      },
+      "Poor PS": {
+        "Subsequent Therapy": [
+          "Palliative and best supportive careˢ",
+          "Consider single-agent chemotherapy†",
+          "Targeted therapy† based on molecular profilingʲ, as clinically indicated",
+          "Palliative RTᵘ"
+        ]
+      }
+    }
+  }
+}

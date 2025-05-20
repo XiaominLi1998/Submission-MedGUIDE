@@ -1,0 +1,2404 @@
+{
+  "aml_7": [
+    [
+      "First relapse (morphologic or molecular)",
+      "Early relapse (<6 mo) after ATRA and arsenic trioxide (no anthracycline)",
+      "Anthracycline-based regimen as per APL-3 or gemtuzumab ozogamicin",
+      "Second remission (morphologic)",
+      "Consider CNS prophylaxis with IT chemotherapy (methotrexate or cytarabine)",
+      "PCR negative (by BM)",
+      "Transplant candidate",
+      "Autologous HCT"
+    ],
+    [
+      "First relapse (morphologic or molecular)",
+      "Early relapse (<6 mo) after ATRA and arsenic trioxide (no anthracycline)",
+      "Anthracycline-based regimen as per APL-3 or gemtuzumab ozogamicin",
+      "Second remission (morphologic)",
+      "Consider CNS prophylaxis with IT chemotherapy (methotrexate or cytarabine)",
+      "PCR negative (by BM)",
+      "Not transplant candidate",
+      "Arsenic trioxide consolidation (total of 6 cycles)"
+    ],
+    [
+      "First relapse (morphologic or molecular)",
+      "Early relapse (<6 mo) after ATRA and arsenic trioxide (no anthracycline)",
+      "Anthracycline-based regimen as per APL-3 or gemtuzumab ozogamicin",
+      "Second remission (morphologic)",
+      "Consider CNS prophylaxis with IT chemotherapy (methotrexate or cytarabine)",
+      "PCR positive (by BM)",
+      "Transplant candidate",
+      "Matched sibling or alternative donor HCT"
+    ],
+    [
+      "First relapse (morphologic or molecular)",
+      "Early relapse (<6 mo) after ATRA and arsenic trioxide (no anthracycline)",
+      "Anthracycline-based regimen as per APL-3 or gemtuzumab ozogamicin",
+      "Second remission (morphologic)",
+      "Consider CNS prophylaxis with IT chemotherapy (methotrexate or cytarabine)",
+      "PCR positive (by BM)",
+      "Not transplant candidate",
+      "Clinical trial"
+    ],
+    [
+      "First relapse (morphologic or molecular)",
+      "Early relapse (<6 mo) after ATRA and arsenic trioxide (no anthracycline)",
+      "Anthracycline-based regimen as per APL-3 or gemtuzumab ozogamicin",
+      "No remission",
+      "Clinical trial or Matched sibling or alternative donor HCT"
+    ],
+    [
+      "First relapse (morphologic or molecular)",
+      "No prior exposure to arsenic trioxide or early relapse (<6 mo) after ATRA + anthracycline-containing regimen",
+      "Arsenic trioxide \u00b1 ATRA \u00b1 gemtuzumab ozogamicin",
+      "Second remission (morphologic)",
+      "Consider CNS prophylaxis with IT chemotherapy (methotrexate or cytarabine)",
+      "PCR negative (by BM)",
+      "Transplant candidate",
+      "Autologous HCT"
+    ],
+    [
+      "First relapse (morphologic or molecular)",
+      "No prior exposure to arsenic trioxide or early relapse (<6 mo) after ATRA + anthracycline-containing regimen",
+      "Arsenic trioxide \u00b1 ATRA \u00b1 gemtuzumab ozogamicin",
+      "Second remission (morphologic)",
+      "Consider CNS prophylaxis with IT chemotherapy (methotrexate or cytarabine)",
+      "PCR negative (by BM)",
+      "Not transplant candidate",
+      "Arsenic trioxide consolidation (total of 6 cycles)"
+    ],
+    [
+      "First relapse (morphologic or molecular)",
+      "No prior exposure to arsenic trioxide or early relapse (<6 mo) after ATRA + anthracycline-containing regimen",
+      "Arsenic trioxide \u00b1 ATRA \u00b1 gemtuzumab ozogamicin",
+      "Second remission (morphologic)",
+      "Consider CNS prophylaxis with IT chemotherapy (methotrexate or cytarabine)",
+      "PCR positive (by BM)",
+      "Transplant candidate",
+      "Matched sibling or alternative donor HCT"
+    ],
+    [
+      "First relapse (morphologic or molecular)",
+      "No prior exposure to arsenic trioxide or early relapse (<6 mo) after ATRA + anthracycline-containing regimen",
+      "Arsenic trioxide \u00b1 ATRA \u00b1 gemtuzumab ozogamicin",
+      "Second remission (morphologic)",
+      "Consider CNS prophylaxis with IT chemotherapy (methotrexate or cytarabine)",
+      "PCR positive (by BM)",
+      "Not transplant candidate",
+      "Clinical trial"
+    ],
+    [
+      "First relapse (morphologic or molecular)",
+      "No prior exposure to arsenic trioxide or early relapse (<6 mo) after ATRA + anthracycline-containing regimen",
+      "Arsenic trioxide \u00b1 ATRA \u00b1 gemtuzumab ozogamicin",
+      "No remission",
+      "Clinical trial or Matched sibling or alternative donor HCT"
+    ],
+    [
+      "First relapse (morphologic or molecular)",
+      "Late relapse (\u22656 mo) after arsenic trioxide\u2013containing regimen",
+      "Arsenic trioxide \u00b1 ATRA \u00b1 (anthracycline or gemtuzumab ozogamicin)",
+      "Second remission (morphologic)",
+      "Consider CNS prophylaxis with IT chemotherapy (methotrexate or cytarabine)",
+      "PCR negative (by BM)",
+      "Transplant candidate",
+      "Autologous HCT"
+    ],
+    [
+      "First relapse (morphologic or molecular)",
+      "Late relapse (\u22656 mo) after arsenic trioxide\u2013containing regimen",
+      "Arsenic trioxide \u00b1 ATRA \u00b1 (anthracycline or gemtuzumab ozogamicin)",
+      "Second remission (morphologic)",
+      "Consider CNS prophylaxis with IT chemotherapy (methotrexate or cytarabine)",
+      "PCR negative (by BM)",
+      "Not transplant candidate",
+      "Arsenic trioxide consolidation (total of 6 cycles)"
+    ],
+    [
+      "First relapse (morphologic or molecular)",
+      "Late relapse (\u22656 mo) after arsenic trioxide\u2013containing regimen",
+      "Arsenic trioxide \u00b1 ATRA \u00b1 (anthracycline or gemtuzumab ozogamicin)",
+      "Second remission (morphologic)",
+      "Consider CNS prophylaxis with IT chemotherapy (methotrexate or cytarabine)",
+      "PCR positive (by BM)",
+      "Transplant candidate",
+      "Matched sibling or alternative donor HCT"
+    ],
+    [
+      "First relapse (morphologic or molecular)",
+      "Late relapse (\u22656 mo) after arsenic trioxide\u2013containing regimen",
+      "Arsenic trioxide \u00b1 ATRA \u00b1 (anthracycline or gemtuzumab ozogamicin)",
+      "Second remission (morphologic)",
+      "Consider CNS prophylaxis with IT chemotherapy (methotrexate or cytarabine)",
+      "PCR positive (by BM)",
+      "Not transplant candidate",
+      "Clinical trial"
+    ],
+    [
+      "First relapse (morphologic or molecular)",
+      "Late relapse (\u22656 mo) after arsenic trioxide\u2013containing regimen",
+      "Arsenic trioxide \u00b1 ATRA \u00b1 (anthracycline or gemtuzumab ozogamicin)",
+      "No remission",
+      "Clinical trial or Matched sibling or alternative donor HCT"
+    ]
+  ],
+  "aml_12": [
+    [
+      "Intensive induction eligible",
+      "Favorable-risk AML by cytogenetics (CBF-AML) or by molecular mutation profile per ELN (AML-A)",
+      "Cytarabine \u00b1 gemtuzumab ozogamicin (CD33 positive) (only if gemtuzumab ozogamicin was given during induction)",
+      "Consider allogeneic HCT or Maintenance (AML-7) or Surveillance (AML-8)"
+    ],
+    [
+      "Intensive induction eligible",
+      "Favorable-risk AML by cytogenetics (CBF-AML) or by molecular mutation profile per ELN (AML-A)",
+      "Cytarabine (5 or 7 days) \u00b1 ([daunorubicin or idarubicin] or [mitoxantrone for age \u226560 y])",
+      "Consider allogeneic HCT or Maintenance (AML-7) or Surveillance (AML-8)"
+    ],
+    [
+      "Intensive induction eligible",
+      "Favorable-risk AML by cytogenetics (CBF-AML) or by molecular mutation profile per ELN (AML-A)",
+      "Cytarabine \u00b1 (daunorubicin or idarubicin) + gemtuzumab ozogamicin (CD33 positive) (only if gemtuzumab ozogamicin was given during induction)",
+      "Consider allogeneic HCT or Maintenance (AML-7) or Surveillance (AML-8)"
+    ],
+    [
+      "Intensive induction eligible",
+      "AML with FLT3 mutation",
+      "Allogeneic HCT (preferred for FLT3-ITD)",
+      "Allogeneic HCT (if not previously performed) or Maintenance (AML-7) or Surveillance (AML-8)"
+    ],
+    [
+      "Intensive induction eligible",
+      "AML with FLT3 mutation",
+      "Cytarabine + midostaurin (FLT3-ITD or TKD)",
+      "Allogeneic HCT (if not previously performed) or Maintenance (AML-7) or Surveillance (AML-8)"
+    ],
+    [
+      "Intensive induction eligible",
+      "AML with FLT3 mutation",
+      "Cytarabine + quizartinib (FLT3-ITD only)",
+      "Allogeneic HCT (if not previously performed) or Maintenance (AML-7) or Surveillance (AML-8)"
+    ],
+    [
+      "Intensive induction eligible",
+      "Intermediate-risk AML",
+      "Cytarabine",
+      "Allogeneic HCT (if not previously performed) or Maintenance (AML-7) or Surveillance (AML-8)"
+    ],
+    [
+      "Intensive induction eligible",
+      "Intermediate-risk AML",
+      "Cytarabine \u00b1 (daunorubicin or idarubicin) + gemtuzumab ozogamicin (CD33 positive) (only if gemtuzumab ozogamicin was given during induction)",
+      "Allogeneic HCT (if not previously performed) or Maintenance (AML-7) or Surveillance (AML-8)"
+    ],
+    [
+      "Intensive induction eligible",
+      "Intermediate-risk AML",
+      "Allogeneic HCT",
+      "Allogeneic HCT (if not previously performed) or Maintenance (AML-7) or Surveillance (AML-8)"
+    ],
+    [
+      "Intensive induction eligible",
+      "Poor-risk AML with and without TP53 mutation or del(17p) abnormality / Therapy-related AML other than CBF-AML / Antecedent MDS/CMML / Cytogenetic changes consistent with MDS (previously classified as AML-MRC)",
+      "Allogeneic HCT (preferred)",
+      "Allogeneic HCT (if not previously performed) or Maintenance (AML-7) or Surveillance (AML-8)"
+    ],
+    [
+      "Intensive induction eligible",
+      "Poor-risk AML with and without TP53 mutation or del(17p) abnormality / Therapy-related AML other than CBF-AML / Antecedent MDS/CMML / Cytogenetic changes consistent with MDS (previously classified as AML-MRC)",
+      "Cytarabine",
+      "Allogeneic HCT (if not previously performed) or Maintenance (AML-7) or Surveillance (AML-8)"
+    ],
+    [
+      "Intensive induction eligible",
+      "Poor-risk AML with and without TP53 mutation or del(17p) abnormality / Therapy-related AML other than CBF-AML / Antecedent MDS/CMML / Cytogenetic changes consistent with MDS (previously classified as AML-MRC)",
+      "CPX-351/dual-drug liposomal encapsulation of cytarabine and daunorubicin (preferred only if given during induction)",
+      "Allogeneic HCT (if not previously performed) or Maintenance (AML-7) or Surveillance (AML-8)"
+    ],
+    [
+      "Intensive induction eligible",
+      "Poor-risk AML with and without TP53 mutation or del(17p) abnormality / Therapy-related AML other than CBF-AML / Antecedent MDS/CMML / Cytogenetic changes consistent with MDS (previously classified as AML-MRC)",
+      "FLAG-IDA (use with caution in patients >60 y) (preferred only if given during induction)",
+      "Allogeneic HCT (if not previously performed) or Maintenance (AML-7) or Surveillance (AML-8)"
+    ],
+    [
+      "Intensive induction eligible",
+      "Poor-risk AML with and without TP53 mutation or del(17p) abnormality / Therapy-related AML other than CBF-AML / Antecedent MDS/CMML / Cytogenetic changes consistent with MDS (previously classified as AML-MRC)",
+      "Continuation of lower intensity regimen used for induction (e.g., HMA [azacitidine or decitabine] + venetoclax)",
+      "Allogeneic HCT (if not previously performed) or Maintenance (AML-7) or Surveillance (AML-8)"
+    ]
+  ],
+  "aml_14": [
+    [
+      "At diagnosis, neurologic symptoms",
+      "CT/MRI to rule out bleed or mass effect",
+      "Negative mass effect",
+      "LP",
+      "Negative",
+      "Observe and repeat LP if symptoms persist"
+    ],
+    [
+      "At diagnosis, neurologic symptoms",
+      "CT/MRI to rule out bleed or mass effect",
+      "Negative mass effect",
+      "LP",
+      "Positive by morphology or immunotype by flow cytometry",
+      "IT chemotherapy 2x/wk until clear, then weekly x 4\u20136 wks"
+    ],
+    [
+      "At diagnosis, neurologic symptoms",
+      "CT/MRI to rule out bleed or mass effect",
+      "Positive mass effect or increased intracranial pressure",
+      "Consider fine-needle aspiration (FNA) or biopsy",
+      "RT followed by IT chemotherapy 2x/wk until clear, then weekly x 4\u20136 wks"
+    ],
+    [
+      "At diagnosis, neurologic symptoms",
+      "CT/MRI to rule out bleed or mass effect",
+      "Positive mass effect or increased intracranial pressure",
+      "Consider fine-needle aspiration (FNA) or biopsy",
+      "Cytarabine-based therapy with doses \u22652 g/m\u00b2 + dexamethasone to reduce intracranial pressure"
+    ],
+    [
+      "First CR screening, no neurologic symptoms",
+      "LP",
+      "Negative",
+      "Observe and repeat LP if symptoms present"
+    ],
+    [
+      "First CR screening, no neurologic symptoms",
+      "LP",
+      "Cerebrospinal fluid (CSF) positive by morphology or immunotype by flow cytometry",
+      "IT chemotherapy 2x/wk until clear"
+    ],
+    [
+      "First CR screening, no neurologic symptoms",
+      "LP",
+      "Cerebrospinal fluid (CSF) positive by morphology or immunotype by flow cytometry",
+      "If patient is to receive doses of cytarabine \u22652 g/m\u00b2, follow up with LP post completion of therapy to document clearance"
+    ]
+  ],
+  "aml_15": [
+    [
+      "Cycle 1 Venetoclax + HMA or LDAC",
+      "BM aspirate and biopsy days 21\u201328",
+      "CR (Response criteria, see AML-I)",
+      "Start cycle 2 on day 29 or later if marrow results not available on day 29"
+    ],
+    [
+      "Cycle 1 Venetoclax + HMA or LDAC",
+      "BM aspirate and biopsy days 21\u201328",
+      "MLFS or CRi (Response criteria, see AML-I)",
+      "Delay cycle 2 for up to 14 days to allow recovery of ANC >0.5 x 10^9/L and platelets >50 x 10^9/L; G-CSF may be added",
+      "Start cycle 2\n\u2022 Consider reduction of venetoclax duration to 21 days",
+      "Cycle 3 and beyond\n\u2022 Consider further reduction in venetoclax duration (14 days, 7 days, or 5 days) if cytopenias recur in subsequent cycles\n\u2022 Dose modifications to HMA, or LDAC may also be considered in accordance with their label"
+    ],
+    [
+      "Cycle 1 Venetoclax + HMA or LDAC",
+      "BM aspirate and biopsy days 21\u201328",
+      "MLFS or CRi (Response criteria, see AML-I)",
+      "Delay cycle 2 for up to 14 days to allow recovery of ANC >0.5 x 10^9/L and platelets >50 x 10^9/L; G-CSF may be added",
+      "Start cycle 2\n\u2022 Consider reduction of venetoclax duration to 21 days"
+    ],
+    [
+      "Cycle 1 Venetoclax + HMA or LDAC",
+      "BM aspirate and biopsy days 21\u201328",
+      "MLFS or CRi (Response criteria, see AML-I)",
+      "Delay cycle 2 for up to 14 days to allow recovery of ANC >0.5 x 10^9/L and platelets >50 x 10^9/L; G-CSF may be added"
+    ],
+    [
+      "Cycle 1 Venetoclax + HMA or LDAC",
+      "BM aspirate and biopsy days 21\u201328",
+      "Lack of response (Response criteria, see AML-I)",
+      "Start cycle 2 without delay",
+      "BM aspirate and biopsy days 21\u201328",
+      "MLFS or better response (Response criteria, see AML-I)"
+    ],
+    [
+      "Cycle 1 Venetoclax + HMA or LDAC",
+      "BM aspirate and biopsy days 21\u201328",
+      "Lack of response (Response criteria, see AML-I)",
+      "Start cycle 2 without delay",
+      "BM aspirate and biopsy days 21\u201328",
+      "Lack of response (Response criteria, see AML-I)",
+      "Continue therapy up to 4 cycles and if no response, see Therapy for Relapsed/Refractory Disease (AML-9)"
+    ],
+    [
+      "Cycle 1 Venetoclax + HMA or LDAC",
+      "BM aspirate and biopsy days 21\u201328",
+      "Lack of response (Response criteria, see AML-I)",
+      "Start cycle 2 without delay",
+      "Disease progression, see Therapy for Relapsed/Refractory Disease (AML-9)"
+    ]
+  ],
+  "bla_10": [
+    [
+      "CIS, Ta, T1",
+      "Repeat TUR",
+      "Followed by intraurethral chemotherapy or BCG (selected cases)"
+    ],
+    [
+      "T2",
+      "Male",
+      "Pendulous urethra",
+      "Distal urethrectomy or Partial penectomy",
+      "Positive margin",
+      "Additional surgery or Chemoradiotherapy (preferred) or RT",
+      "Follow-up imaging with cystoscopy",
+      "Recurrence",
+      "Systemic therapy and/or Total penectomy and/or RT"
+    ],
+    [
+      "T2",
+      "Male",
+      "Pendulous urethra",
+      "Distal urethrectomy or Partial penectomy",
+      "Negative margin",
+      "Follow-up imaging with cystoscopy",
+      "Recurrence",
+      "Systemic therapy and/or Total penectomy and/or RT"
+    ],
+    [
+      "T2",
+      "Male",
+      "Bulbar urethra",
+      "Urethrectomy \u00b1 cystoprostatectomy",
+      "pT1/pT2 and pN0",
+      "Follow-up imaging with cystoscopy",
+      "Recurrence",
+      "Systemic therapy and/or RT"
+    ],
+    [
+      "T2",
+      "Male",
+      "Bulbar urethra",
+      "Urethrectomy \u00b1 cystoprostatectomy",
+      "pT3/pT4 or pN1/pN2",
+      "Consider chemotherapy or Chemoradiotherapy",
+      "Follow-up imaging with cystoscopy",
+      "Recurrence",
+      "Systemic therapy or Chemoradiotherapy (if no prior RT) or Pelvic exenteration (category 2B)"
+    ],
+    [
+      "T2",
+      "Female",
+      "Chemoradiotherapy or Urethrectomy + cystectomy or Distal urethrectomy (depending on tumor location)",
+      "Follow-up imaging with cystoscopy",
+      "Recurrence",
+      "Systemic therapy or Chemoradiotherapy (if no prior RT) or Pelvic exenteration (category 2B)"
+    ]
+  ],
+  "bon_6": [
+    [
+      "Physical exam",
+      "Imaging of primary site, timing, and modality, as clinically indicated (eg, x-ray, MRI with and without contrast \u00b1 CT with contrast) for up to 10 y",
+      "Chest imaging every 6 mo may include CT annually for 5 y, then annually thereafter, as clinically indicated",
+      "Local recurrence",
+      "Surgical excision and/or RT and/or Ablation and/or Systemic therapy or Clinical trial"
+    ],
+    [
+      "Physical exam",
+      "Imaging of primary site, timing, and modality, as clinically indicated (eg, x-ray, MRI with and without contrast \u00b1 CT with contrast) for up to 10 y",
+      "Chest imaging every 6 mo may include CT annually for 5 y, then annually thereafter, as clinically indicated",
+      "Metastatic recurrence",
+      "Systemic therapy and/or Surgical excision and/or RT or Clinical trial and/or Best supportive care"
+    ]
+  ],
+  "bon_8": [
+    [
+      "Stable/improved disease following primary treatment",
+      "Wide excision",
+      "Positive margins",
+      "Continue chemotherapy (category 1) followed by RT or RT and chemotherapy (category 1 for chemotherapy)"
+    ],
+    [
+      "Stable/improved disease following primary treatment",
+      "Wide excision",
+      "Negative margins",
+      "Chemotherapy (category 1) and consider RT for pelvic tumors"
+    ],
+    [
+      "Stable/improved disease following primary treatment",
+      "Definitive RT and chemotherapy"
+    ],
+    [
+      "Stable/improved disease following primary treatment",
+      "Amputation in selected cases",
+      "Postoperative chemotherapy (category 1), consider RT depending on margin status"
+    ],
+    [
+      "Stable/improved disease following primary treatment",
+      "Surveillance",
+      "Physical exam",
+      "Contrast-enhanced MRI \u00b1 CT of primary site",
+      "Chest imaging (x-ray or CT) every 3 mo",
+      "X-rays of primary site",
+      "Complete blood count (CBC) and other laboratory studies as indicated",
+      "Increase intervals for physical exam, imaging of primary site and chest after 24 mo and annually after 5 y, as clinically indicated (indefinitely) (category 2B)",
+      "Consider FDG-PET/CT (head-to-toe) or bone scan",
+      "Relapse",
+      "Chemotherapy \u00b1 RT \u00b1 surgery"
+    ],
+    [
+      "Stable/improved disease following primary treatment",
+      "Surveillance",
+      "Physical exam",
+      "Contrast-enhanced MRI \u00b1 CT of primary site",
+      "Chest imaging (x-ray or CT) every 3 mo",
+      "X-rays of primary site",
+      "Complete blood count (CBC) and other laboratory studies as indicated",
+      "Increase intervals for physical exam, imaging of primary site and chest after 24 mo and annually after 5 y, as clinically indicated (indefinitely) (category 2B)",
+      "Consider FDG-PET/CT (head-to-toe) or bone scan"
+    ],
+    [
+      "Progressive disease following primary treatment",
+      "Consider RT and/or surgery to primary site for local control or palliation",
+      "Surveillance",
+      "Physical exam",
+      "Contrast-enhanced MRI \u00b1 CT of primary site",
+      "Chest imaging (x-ray or CT) every 3 mo",
+      "X-rays of primary site",
+      "Complete blood count (CBC) and other laboratory studies as indicated",
+      "Increase intervals for physical exam, imaging of primary site and chest after 24 mo and annually after 5 y, as clinically indicated (indefinitely) (category 2B)",
+      "Consider FDG-PET/CT (head-to-toe) or bone scan",
+      "Relapse",
+      "Chemotherapy \u00b1 RT \u00b1 surgery"
+    ],
+    [
+      "Progressive disease following primary treatment",
+      "Chemotherapy or Best supportive care"
+    ]
+  ],
+  "bon_9": [
+    [
+      "Metastatic Ewing sarcoma",
+      "Local control therapy to primary site",
+      "Wide excision",
+      "Positive margins",
+      "Continue chemotherapy (category 1) followed by RT or RT and chemotherapy (category 1, for chemotherapy)",
+      "Oligometastatic disease",
+      "Excision of metastases or RT"
+    ],
+    [
+      "Metastatic Ewing sarcoma",
+      "Local control therapy to primary site",
+      "Wide excision",
+      "Positive margins",
+      "Continue chemotherapy (category 1) followed by RT or RT and chemotherapy (category 1, for chemotherapy)",
+      "Lung only partial response",
+      "Excision \u00b1 whole lung irradiation (WLI)"
+    ],
+    [
+      "Metastatic Ewing sarcoma",
+      "Local control therapy to primary site",
+      "Wide excision",
+      "Positive margins",
+      "Continue chemotherapy (category 1) followed by RT or RT and chemotherapy (category 1, for chemotherapy)",
+      "Lung only complete response",
+      "Consider WLI"
+    ],
+    [
+      "Metastatic Ewing sarcoma",
+      "Local control therapy to primary site",
+      "Wide excision",
+      "Negative margins",
+      "Chemotherapy (category 1)",
+      "Oligometastatic disease",
+      "Excision of metastases or RT"
+    ],
+    [
+      "Metastatic Ewing sarcoma",
+      "Local control therapy to primary site",
+      "Wide excision",
+      "Negative margins",
+      "Chemotherapy (category 1)",
+      "Lung only partial response",
+      "Excision \u00b1 whole lung irradiation (WLI)"
+    ],
+    [
+      "Metastatic Ewing sarcoma",
+      "Local control therapy to primary site",
+      "Wide excision",
+      "Negative margins",
+      "Chemotherapy (category 1)",
+      "Lung only complete response",
+      "Consider WLI"
+    ],
+    [
+      "Metastatic Ewing sarcoma",
+      "Local control therapy to primary site",
+      "Definitive RT and chemotherapy",
+      "Oligometastatic disease",
+      "Excision of metastases or RT"
+    ],
+    [
+      "Metastatic Ewing sarcoma",
+      "Local control therapy to primary site",
+      "Definitive RT and chemotherapy",
+      "Lung only partial response",
+      "Excision \u00b1 whole lung irradiation (WLI)"
+    ],
+    [
+      "Metastatic Ewing sarcoma",
+      "Local control therapy to primary site",
+      "Definitive RT and chemotherapy",
+      "Lung only complete response",
+      "Consider WLI"
+    ],
+    [
+      "Metastatic Ewing sarcoma",
+      "Widely metastatic",
+      "Continuing chemotherapy only with palliative surgery"
+    ],
+    [
+      "Metastatic Ewing sarcoma",
+      "Widely metastatic",
+      "Palliative RT to symptomatic areas"
+    ],
+    [
+      "Metastatic Ewing sarcoma",
+      "Widely metastatic",
+      "Other techniques for multiple metastases"
+    ]
+  ],
+  "bre_1": [
+    [
+      "BCS \u00b1 surgical axillary staging category 1 \u00b1 oncoplastic reconstruction",
+      "See BINV-4 to determine whether adjuvant systemic therapy is indicated. RT is typically given after systemic therapy. See BINV-I for sequencing of systemic therapy and RT.",
+      "pN0 or cN0",
+      "Whole breast RT \u00b1 boost to tumor bed, and consider comprehensive regional nodal irradiation (RNI) in patients with central/medial tumors, pT3 tumors, or pT2 tumors and one of the following high-risk features: grade 3, extensive lymphovascular invasion (LVI), or hormone-receptor (HR)-negative"
+    ],
+    [
+      "BCS \u00b1 surgical axillary staging category 1 \u00b1 oncoplastic reconstruction",
+      "See BINV-4 to determine whether adjuvant systemic therapy is indicated. RT is typically given after systemic therapy. See BINV-I for sequencing of systemic therapy and RT.",
+      "pN0 or cN0",
+      "Consider APBI/PBI in selected patients who are low risk (category 1)"
+    ],
+    [
+      "BCS \u00b1 surgical axillary staging category 1 \u00b1 oncoplastic reconstruction",
+      "See BINV-4 to determine whether adjuvant systemic therapy is indicated. RT is typically given after systemic therapy. See BINV-I for sequencing of systemic therapy and RT.",
+      "pN0 or cN0",
+      "Consider omitting breast irradiation if adjuvant endocrine therapy is planned and the following criteria are met (category 1): \u226570 y, HR+, HER2-negative, cN0, pT1 (\u22642cm)"
+    ],
+    [
+      "BCS \u00b1 surgical axillary staging category 1 \u00b1 oncoplastic reconstruction",
+      "See BINV-4 to determine whether adjuvant systemic therapy is indicated. RT is typically given after systemic therapy. See BINV-I for sequencing of systemic therapy and RT.",
+      "pN0 or cN0",
+      "Consider omitting breast irradiation if adjuvant endocrine therapy is planned and the following criteria are met (category 1): \u226565 y, HR+, HER2-negative, pN0, pT \u22643 cm"
+    ],
+    [
+      "BCS \u00b1 surgical axillary staging category 1 \u00b1 oncoplastic reconstruction",
+      "See BINV-4 to determine whether adjuvant systemic therapy is indicated. RT is typically given after systemic therapy. See BINV-I for sequencing of systemic therapy and RT.",
+      "pN1a (1\u20133 positive axillary nodes)",
+      "Meets ALL of the following criteria: cT1\u2013T3, cN0; No preoperative chemotherapy; 1\u20132 positive sentinel lymph nodes (SLNs); Whole breast RT planned",
+      "Yes to all",
+      "Whole breast RT \u00b1 boost (use of comprehensive RNI with or without intentional inclusion of axilla at the discretion of the radiation oncologist) (category 1)"
+    ],
+    [
+      "BCS \u00b1 surgical axillary staging category 1 \u00b1 oncoplastic reconstruction",
+      "See BINV-4 to determine whether adjuvant systemic therapy is indicated. RT is typically given after systemic therapy. See BINV-I for sequencing of systemic therapy and RT.",
+      "pN1a (1\u20133 positive axillary nodes)",
+      "Meets ALL of the following criteria: cT1\u2013T3, cN0; No preoperative chemotherapy; 1\u20132 positive sentinel lymph nodes (SLNs); Whole breast RT planned",
+      "No to at least one",
+      "Whole breast RT with inclusion of any portion of the undissected axilla at risk \u00b1 boost to tumor bed (category 1). Strongly consider comprehensive RNI."
+    ],
+    [
+      "BCS \u00b1 surgical axillary staging category 1 \u00b1 oncoplastic reconstruction",
+      "See BINV-4 to determine whether adjuvant systemic therapy is indicated. RT is typically given after systemic therapy. See BINV-I for sequencing of systemic therapy and RT.",
+      "pN2\u20133 (\u22654 positive axillary nodes)",
+      "Whole breast RT \u00b1 boost to tumor bed (category 1) + comprehensive RNI, including any portion of the undissected axilla at risk (category 1)"
+    ]
+  ],
+  "bre_2": [
+    [
+      "Nipple-sparing, skin-sparing, or total mastectomy with surgical axillary staging (category 1) \u00b1 reconstruction",
+      "See BINV-4 to determine whether adjuvant systemic therapy is indicated. RT is typically given after systemic therapy. See BINV-I for sequencing of systemic therapy and RT.",
+      "Negative axillary nodes and \u2264pT2 (\u22645 cm) and margins \u22651 mm",
+      "No RT"
+    ],
+    [
+      "Nipple-sparing, skin-sparing, or total mastectomy with surgical axillary staging (category 1) \u00b1 reconstruction",
+      "See BINV-4 to determine whether adjuvant systemic therapy is indicated. RT is typically given after systemic therapy. See BINV-I for sequencing of systemic therapy and RT.",
+      "Negative axillary nodes and \u2264pT2 (\u22645 cm) and negative margins but <1 mm",
+      "Consider postmastectomy radiotherapy (PMRT) to chest wall. For patients with additional high-risk features, consider addition of comprehensive RNI (including any portion of the undissected axilla at risk)."
+    ],
+    [
+      "Nipple-sparing, skin-sparing, or total mastectomy with surgical axillary staging (category 1) \u00b1 reconstruction",
+      "See BINV-4 to determine whether adjuvant systemic therapy is indicated. RT is typically given after systemic therapy. See BINV-I for sequencing of systemic therapy and RT.",
+      "Negative axillary nodes and pT3 (>5 cm)",
+      "Consider PMRT to chest wall \u00b1 comprehensive RNI (including any portion of the undissected axilla at risk)."
+    ],
+    [
+      "Nipple-sparing, skin-sparing, or total mastectomy with surgical axillary staging (category 1) \u00b1 reconstruction",
+      "See BINV-4 to determine whether adjuvant systemic therapy is indicated. RT is typically given after systemic therapy. See BINV-I for sequencing of systemic therapy and RT.",
+      "1\u20133 positive axillary nodes",
+      "Strongly consider PMRT to chest wall + comprehensive RNI (including any portion of the undissected axilla at risk)."
+    ],
+    [
+      "Nipple-sparing, skin-sparing, or total mastectomy with surgical axillary staging (category 1) \u00b1 reconstruction",
+      "See BINV-4 to determine whether adjuvant systemic therapy is indicated. RT is typically given after systemic therapy. See BINV-I for sequencing of systemic therapy and RT.",
+      "\u22654 positive axillary nodes",
+      "PMRT to chest wall + comprehensive RNI (including any portion of the undissected axilla at risk) (category 1)."
+    ],
+    [
+      "Nipple-sparing, skin-sparing, or total mastectomy with surgical axillary staging (category 1) \u00b1 reconstruction",
+      "See BINV-4 to determine whether adjuvant systemic therapy is indicated. RT is typically given after systemic therapy. See BINV-I for sequencing of systemic therapy and RT.",
+      "Margins positive",
+      "Re-excision to negative margins is preferred. If not feasible, then strongly consider PMRT to chest wall \u00b1 comprehensive RNI (including any portion of the undissected axilla at risk)."
+    ]
+  ],
+  "bre_10": [
+    [
+      "BCS possible",
+      "BCS with surgical axillary staging (BINV-D) \u00b1 oncoplastic reconstruction",
+      "Adjuvant systemic therapy (BINV-16) + whole breast RT",
+      "cN+ and ypN0: Adjuvant whole breast RT \u00b1 boost to the tumor bed; and strongly consider comprehensive RNI with inclusion of any portion of the undissected axilla at risk."
+    ],
+    [
+      "BCS possible",
+      "BCS with surgical axillary staging (BINV-D) \u00b1 oncoplastic reconstruction",
+      "Adjuvant systemic therapy (BINV-16) + whole breast RT",
+      "Any ypN+: Adjuvant whole breast RT \u00b1 boost to the tumor bed; and comprehensive RNI with inclusion of any portion of the undissected axilla at risk."
+    ],
+    [
+      "BCS possible",
+      "BCS with surgical axillary staging (BINV-D) \u00b1 oncoplastic reconstruction",
+      "Adjuvant systemic therapy (BINV-16) + whole breast RT",
+      "Any cN0, ypN0: Adjuvant whole breast RT \u00b1 boost to tumor bed"
+    ],
+    [
+      "BCS not possible",
+      "Mastectomy and surgical axillary staging (BINV-D) \u00b1 reconstruction",
+      "Adjuvant systemic therapy (BINV-16) + PMRT",
+      "cN+ and ypN0: Strongly consider PMRT to the chest wall and comprehensive RNI with inclusion of any portion of the undissected axilla at risk."
+    ],
+    [
+      "BCS not possible",
+      "Mastectomy and surgical axillary staging (BINV-D) \u00b1 reconstruction",
+      "Adjuvant systemic therapy (BINV-16) + PMRT",
+      "Any ypN+: PMRT is indicated to the chest wall + comprehensive RNI with inclusion of any portion of the undissected axilla at risk."
+    ],
+    [
+      "BCS not possible",
+      "Mastectomy and surgical axillary staging (BINV-D) \u00b1 reconstruction",
+      "Adjuvant systemic therapy (BINV-16) + PMRT",
+      "cT4, any N: RT is indicated to the chest wall + comprehensive RNI with inclusion of any portion of the undissected axilla at risk."
+    ],
+    [
+      "BCS not possible",
+      "Mastectomy and surgical axillary staging (BINV-D) \u00b1 reconstruction",
+      "Adjuvant systemic therapy (BINV-16) + PMRT",
+      "cT3, cN0, and ypN0: Consider PMRT to the chest wall + comprehensive RNI with inclusion of any portion of the undissected axilla at risk."
+    ],
+    [
+      "BCS not possible",
+      "Mastectomy and surgical axillary staging (BINV-D) \u00b1 reconstruction",
+      "Adjuvant systemic therapy (BINV-16), no PMRT",
+      "Any cN0, ypN0: If axilla was assessed by SLNB or axillary node dissection"
+    ]
+  ],
+  "bre_11": [
+    [
+      "Preoperative systemic therapy\u2020,gg (BINV-L 1)",
+      "Response to preoperative systemic therapy\u02b7\u02b7 and tumor is operable",
+      "Mastectomy and surgical axillary staging\u1d4f + reconstruction (optional)\u02b7 or BCS with surgical axillary staging\u1d4f,\u1d43\u1d43\u1d43 \u00b1 oncoplastic reconstruction\u207f",
+      "Adjuvant systemic therapy\u02e3\u02e3 (BINV-16) and Adjuvant RT\u02e2 to the whole breast or chest wall and comprehensive RNI with inclusion of any portion of the undissected axilla at risk."
+    ],
+    [
+      "Preoperative systemic therapy\u2020,gg (BINV-L 1)",
+      "Response to preoperative systemic therapy\u02b7\u02b7 and tumor is operable",
+      "Mastectomy and surgical axillary staging\u1d4f + reconstruction (optional)\u02b7 or BCS with surgical axillary staging\u1d4f,\u1d43\u1d43\u1d43 \u00b1 oncoplastic reconstruction\u207f",
+      "Adjuvant systemic therapy\u02e3\u02e3 (BINV-16) and Adjuvant RT\u02e2 to the whole breast or chest wall and comprehensive RNI with inclusion of any portion of the undissected axilla at risk.",
+      "Follow pathway above"
+    ],
+    [
+      "Preoperative systemic therapy\u2020,gg (BINV-L 1)",
+      "No response to preoperative systemic therapy\u02b7\u02b7 and/or tumor remains inoperable",
+      "Consider additional systemic therapy and/or preoperative radiation\u02e2",
+      "Response to preoperative systemic therapy\u02b7\u02b7 and tumor is operable",
+      "Mastectomy and surgical axillary staging\u1d4f + reconstruction (optional)\u02b7 or BCS with surgical axillary staging\u1d4f,\u1d43\u1d43\u1d43 \u00b1 oncoplastic reconstruction\u207f",
+      "Adjuvant systemic therapy\u02e3\u02e3 (BINV-16) and Adjuvant RT\u02e2 to the whole breast or chest wall and comprehensive RNI with inclusion of any portion of the undissected axilla at risk."
+    ],
+    [
+      "Preoperative systemic therapy\u2020,gg (BINV-L 1)",
+      "No response to preoperative systemic therapy\u02b7\u02b7 and/or tumor remains inoperable",
+      "Consider additional systemic therapy and/or preoperative radiation\u02e2",
+      "Response to preoperative systemic therapy\u02b7\u02b7 and tumor is operable",
+      "Mastectomy and surgical axillary staging\u1d4f + reconstruction (optional)\u02b7 or BCS with surgical axillary staging\u1d4f,\u1d43\u1d43\u1d43 \u00b1 oncoplastic reconstruction\u207f",
+      "Adjuvant systemic therapy\u02e3\u02e3 (BINV-16) and Adjuvant RT\u02e2 to the whole breast or chest wall and comprehensive RNI with inclusion of any portion of the undissected axilla at risk.",
+      "Follow pathway above"
+    ],
+    [
+      "Preoperative systemic therapy\u2020,gg (BINV-L 1)",
+      "No response to preoperative systemic therapy\u02b7\u02b7 and/or tumor remains inoperable",
+      "Consider additional systemic therapy and/or preoperative radiation\u02e2",
+      "No response to preoperative systemic therapy\u02b7\u02b7 and tumor is inoperable",
+      "Individualize treatment"
+    ]
+  ],
+  "bre_18": [
+    [
+      "Implant-based reconstruction planned\u1da0",
+      "2 stage: tissue expander followed by permanent implant (prepectoral, partial submuscular, or total submuscular tissue expander)",
+      "Tissue expansion followed by exchange to implant prior to the initiation of RT\u1d4f"
+    ],
+    [
+      "Implant-based reconstruction planned\u1da0",
+      "2 stage: tissue expander followed by permanent implant (prepectoral, partial submuscular, or total submuscular tissue expander)",
+      "Tissue expansion followed by RT and delayed exchange to implant\u2071,\u1d4f \u22656 months after completion of RT"
+    ],
+    [
+      "Implant-based reconstruction planned\u1da0",
+      "1 stage: direct to implant\u02b0"
+    ],
+    [
+      "Autologous reconstruction planned\u1d4d",
+      "Immediate autologous reconstruction\u2071"
+    ],
+    [
+      "Autologous reconstruction planned\u1d4d",
+      "Delayed reconstruction \u22656 months after the completion of RT\u2071"
+    ],
+    [
+      "Autologous reconstruction planned\u1d4d",
+      "Place tissue expander at the time of surgery, followed by expansion, RT, and delayed autologous reconstruction\u2071,\u02b2 \u22656 months after completion of RT"
+    ]
+  ],
+  "bre_19": [
+    [
+      "Recurrent carcinoma after breast conservation including RT",
+      "Assess soft tissue preoperatively and intraoperatively\u2071",
+      "Adequate\u1d50",
+      "Autologous (preferred) or combination\u207f"
+    ],
+    [
+      "Recurrent carcinoma after breast conservation including RT",
+      "Assess soft tissue preoperatively and intraoperatively\u2071",
+      "Adequate\u1d50",
+      "1 stage: direct to implant"
+    ],
+    [
+      "Recurrent carcinoma after breast conservation including RT",
+      "Assess soft tissue preoperatively and intraoperatively\u2071",
+      "Adequate\u1d50",
+      "2 stage: tissue expander followed by implant"
+    ],
+    [
+      "Recurrent carcinoma after breast conservation including RT",
+      "Assess soft tissue preoperatively and intraoperatively\u2071",
+      "Inadequate\u1d50",
+      "Autologous (preferred) or combination\u207f,\u1d52"
+    ],
+    [
+      "Delayed reconstruction after mastectomy and RT",
+      "Assess soft tissue preoperatively and intraoperatively\u2071",
+      "Adequate\u1d50",
+      "Autologous (preferred) or combination\u207f,\u1d52"
+    ],
+    [
+      "Delayed reconstruction after mastectomy and RT",
+      "Assess soft tissue preoperatively and intraoperatively\u2071",
+      "Adequate\u1d50",
+      "2 stage: tissue expander followed by implant or autologous tissue"
+    ],
+    [
+      "Delayed reconstruction after mastectomy and RT",
+      "Assess soft tissue preoperatively and intraoperatively\u2071",
+      "Inadequate\u1d50",
+      "Autologous (preferred) or combination\u207f,\u1d52"
+    ]
+  ],
+  "bre_20": [
+    [
+      "Immediate placement of tissue expander at the time of mastectomy (prepectoral, partial submuscular, total submuscular tissue expander placement)\u1da0",
+      "Adjuvant chemotherapy planned",
+      "Tissue expansion during chemotherapy",
+      "No RT planned",
+      "Exchange tissue expander to implant or Convert to autologous tissue reconstruction"
+    ],
+    [
+      "Immediate placement of tissue expander at the time of mastectomy (prepectoral, partial submuscular, total submuscular tissue expander placement)\u1da0",
+      "Adjuvant chemotherapy planned",
+      "Tissue expansion during chemotherapy",
+      "RT planned",
+      "Exchange tissue expander to permanent implant\u1da0,\u02b2 (prior to initiation of RT, if no delay to initiation of RT or \u22656 months after RT) or Conversion to autologous tissue reconstruction \u22656 months after RT"
+    ],
+    [
+      "Immediate placement of tissue expander at the time of mastectomy (prepectoral, partial submuscular, total submuscular tissue expander placement)\u1da0",
+      "No adjuvant chemotherapy planned",
+      "No RT planned",
+      "Tissue expansion followed by exchange to permanent implant or autologous tissue reconstruction"
+    ],
+    [
+      "Immediate placement of tissue expander at the time of mastectomy (prepectoral, partial submuscular, total submuscular tissue expander placement)\u1da0",
+      "No adjuvant chemotherapy planned",
+      "RT planned",
+      "Tissue expansion followed by RT; conversion to permanent implant or autologous tissue \u22656 months after completion of RT (category 2B)\u02b2 or Tissue expansion followed by exchange to permanent implant before RT (if no delay to initiation of RT)"
+    ],
+    [
+      "1 stage: direct to implant\u02b0 or Immediate autologous reconstruction or latissimus dorsi with implant at time of mastectomy\u2071",
+      "Consider revisional surgeries to the ipsilateral or contralateral breast after RT if needed"
+    ],
+    [
+      "Delayed reconstruction",
+      "RT not required",
+      "Reconstruction with implant, autologous tissue, or a combination"
+    ],
+    [
+      "Delayed reconstruction",
+      "RT required",
+      "Reconstruction Based on History of RT (BINV-H 3)"
+    ]
+  ],
+  "cer_6": [
+    [
+      "IIB\u2013IVA",
+      "Further radiologic workup for metastatic disease as clinically indicated\u1d9c",
+      "Negative for distant metastasis",
+      "EBRT\u1d50,\u1d56,\u1d57 + concurrent platinum-containing chemotherapy\u1d58 + brachytherapy\u1d50 \u00b1 pembrolizumab (category 1 for FIGO 2014 Stage IIIA, IIIB, and IVA; category 2B for select FIGO 2018 stage III\u2013IVA)\u1d41"
+    ],
+    [
+      "IIB\u2013IVA",
+      "Further radiologic workup for metastatic disease as clinically indicated\u1d9c",
+      "Positive for distant metastasis",
+      "Biopsy suspicious areas as indicated",
+      "Negative",
+      "EBRT\u1d50,\u1d56,\u1d57 + concurrent platinum-containing chemotherapy\u1d58 + brachytherapy\u1d50 \u00b1 pembrolizumab (category 1 for FIGO 2014 Stage IIIA, IIIB, and IVA; category 2B for select FIGO 2018 stage III\u2013IVA)\u1d41"
+    ],
+    [
+      "IIB\u2013IVA",
+      "Further radiologic workup for metastatic disease as clinically indicated\u1d9c",
+      "Positive for distant metastasis",
+      "Biopsy suspicious areas as indicated",
+      "Positive",
+      "Systemic therapy\u02e2 \u00b1 individualized RT\u1d50,\u1d5b"
+    ]
+  ],
+  "cml_3": [
+    [
+      "Advanced phase CML",
+      "Treatment considerations",
+      "AP-CML\u1d49,\u1d5b",
+      "Clinical trial or Preferred regimens \u2022 2G TKI (alphabetical order) (Bosutinib or Dasatinib or Nilotinib) or third-generation (3G) TKI (Ponatinib)",
+      "Useful in certain circumstances \u2022 1G TKI (Imatinib; if 2G or 3G TKI is contraindicated)\u02b8 \u2022 Allosteric TKI (Asciminib)",
+      "Lack of response or Disease progression",
+      "Allogeneic HCT (CML-6)"
+    ],
+    [
+      "Advanced phase CML",
+      "Treatment considerations",
+      "BP-CML\u1d49,\u02b7",
+      "Lymphoid",
+      "Clinical trial or Preferred regimens \u2022 ALL-type induction chemotherapy (NCCN Guidelines for ALL) + TKI\u1dbb",
+      "Useful in certain circumstances \u2022 TKI\u1dbb + steroids (if not a candidate for induction chemotherapy)",
+      "For patients in remission: \u2022 Allogeneic HCT (CML-6) \u2022 Consolidation chemotherapy and TKI\u1dbb maintenance for non-candidates for allogeneic HCT"
+    ],
+    [
+      "Advanced phase CML",
+      "Treatment considerations",
+      "BP-CML\u1d49,\u02b7",
+      "Myeloid",
+      "Clinical trial or Preferred regimens \u2022 AML-type induction chemotherapy (NCCN Guidelines for AML) + TKI\u1dbb",
+      "Useful in certain circumstances \u2022 TKI\u1dbb (if not a candidate for induction chemotherapy)",
+      "For patients in remission: \u2022 Allogeneic HCT (CML-6) \u2022 Consolidation chemotherapy and TKI\u1dbb maintenance for non-candidates for allogeneic HCT"
+    ]
+  ],
+  "cns_6": [
+    [
+      "Recurrent or progressive disease \u2022 WHO grade 1 circumscribed glioma \u2022 WHO grade 2 \u25b8PXA, circumscribed glioma",
+      "Prior fractionated external beam RT\u1d50 (EBRT)",
+      "Resectable",
+      "Surgery\u1d49,\u1d57 \u2192 Brain MRI\u1d43,\u1d48",
+      "Consider clinical trial (preferred for eligible patients) Start systemic therapy\u02b0,\u02b3 or Change to a different systemic therapy\u02b0,\u02b3 or Consider reirradiation with highly focused RT\u1d50 \u00b1 systemic therapy\u02b0,\u02b3 in select cases or Consider observation for gross totally resected tumors or Palliative/best supportive care"
+    ],
+    [
+      "Recurrent or progressive disease \u2022 WHO grade 1 circumscribed glioma \u2022 WHO grade 2 \u25b8PXA, circumscribed glioma",
+      "Prior fractionated external beam RT\u1d50 (EBRT)",
+      "Unresectable",
+      "Consider biopsy\u1d57,\u146b",
+      "Consider clinical trial (preferred for eligible patients) Start systemic therapy\u02b0,\u02b3 or Change to a different systemic therapy\u02b0,\u02b3 or Consider reirradiation with highly focused RT\u1d50 \u00b1 systemic therapy\u02b0,\u02b3 in select cases or Consider observation for gross totally resected tumors or Palliative/best supportive care"
+    ],
+    [
+      "Recurrent or progressive disease \u2022 WHO grade 1 circumscribed glioma \u2022 WHO grade 2 \u25b8PXA, circumscribed glioma",
+      "No prior fractionated EBRT\u1d50",
+      "Resectable",
+      "Surgery\u1d49,\u1d57 \u2192 Brain MRI\u1d43,\u1d48",
+      "Consider clinical trial (preferred for eligible patients) or Standard RT for circumscribed tumors\u1d50,\u02e2 or Standard RT\u1d50 + adjuvant PCV\u02b3 or Standard RT\u1d50 + adjuvant TMZ\u1dbb or Standard RT\u1d50 + concurrent and adjuvant TMZ\u1dbb or Systemic therapy\u02b0,\u02b3 (category 2B)"
+    ],
+    [
+      "Recurrent or progressive disease \u2022 WHO grade 1 circumscribed glioma \u2022 WHO grade 2 \u25b8PXA, circumscribed glioma",
+      "No prior fractionated EBRT\u1d50",
+      "Unresectable",
+      "Consider biopsy\u1d57,\u146b",
+      "Consider clinical trial (preferred for eligible patients) or Standard RT for circumscribed tumors\u1d50,\u02e2 or Standard RT\u1d50 + adjuvant PCV\u02b3 or Standard RT\u1d50 + adjuvant TMZ\u1dbb or Standard RT\u1d50 + concurrent and adjuvant TMZ\u1dbb or Systemic therapy\u02b0,\u02b3 (category 2B)"
+    ]
+  ],
+  "cns_17": [
+    [
+      "Brain MRI: every 3 mo for 2 y; then every 6\u201312 mo for 5\u201310 y; then every 1\u20132 y or as clinically indicated For patients with previous spine disease, concurrent spine imaging as clinically indicated",
+      "Recurrent disease",
+      "\u2022 Brain and spine MRI\u1d43,\u02b3 \u2022 CSF analysis",
+      "Localized brain recurrence",
+      "Maximum safe resection",
+      "Brain\u1da0 and spine MRI\u1d43,\u1d4d",
+      "Systemic therapy\u1d56 and/or Additional radiation\u1d57 after resection or High-dose systemic therapy\u1d56 with autologous stem cell reinfusion\u1d58"
+    ],
+    [
+      "Brain MRI: every 3 mo for 2 y; then every 6\u201312 mo for 5\u201310 y; then every 1\u20132 y or as clinically indicated For patients with previous spine disease, concurrent spine imaging as clinically indicated",
+      "Recurrent disease",
+      "\u2022 Brain and spine MRI\u1d43,\u02b3 \u2022 CSF analysis",
+      "Disseminated disease\u02e2",
+      "Systemic therapy\u1d56 or Palliative/best supportive care, including focal radiation, if indicated\u1d57"
+    ]
+  ],
+  "cns_19": [
+    [
+      "Brain MRI:\u1d47 \u25b8 every 3 mo until 2 y, \u25b8 every 6 mo until 5 y, \u25b8 then annually indefinitely \u2022 For patients with previous spine disease, concurrent spine imaging\u1d47 and CSF sampling as clinically indicated \u2022 For patients with prior ocular involvement, concurrent ophthalmologic follow-up as clinically indicated",
+      "Any type of treatment history",
+      "Consider clinical trial or Consider systemic therapy (systemic and/or intra-CSF)\u207f or Consider high-dose therapy\u207f,\u1d58 with stem cell rescue\u1d5b (category 2B) or Consider focal irradiation\u146b or Palliative/best supportive care"
+    ],
+    [
+      "Brain MRI:\u1d47 \u25b8 every 3 mo until 2 y, \u25b8 every 6 mo until 5 y, \u25b8 then annually indefinitely \u2022 For patients with previous spine disease, concurrent spine imaging\u1d47 and CSF sampling as clinically indicated \u2022 For patients with prior ocular involvement, concurrent ophthalmologic follow-up as clinically indicated",
+      "Prior WBRT",
+      "Consider clinical trial or Consider systemic therapy (systemic and/or intra-CSF)\u207f or Consider high-dose therapy\u207f,\u1d58 with stem cell rescue\u1d5b (category 2B) or Consider focal irradiation\u146b or Palliative/best supportive care"
+    ],
+    [
+      "Brain MRI:\u1d47 \u25b8 every 3 mo until 2 y, \u25b8 every 6 mo until 5 y, \u25b8 then annually indefinitely \u2022 For patients with previous spine disease, concurrent spine imaging\u1d47 and CSF sampling as clinically indicated \u2022 For patients with prior ocular involvement, concurrent ophthalmologic follow-up as clinically indicated",
+      "Prior high-dose methotrexate-based regimen without prior RT",
+      "Previous response with long duration (\u226512 mo)\u1d57",
+      "Re-treat with high-dose methotrexate \u00b1 other systemic therapy\u207f or Other systemic therapy\u207f or Consider high-dose therapy\u207f,\u1d58 with stem cell rescue\u1d5b (category 2B) or Palliative/best supportive care"
+    ],
+    [
+      "Brain MRI:\u1d47 \u25b8 every 3 mo until 2 y, \u25b8 every 6 mo until 5 y, \u25b8 then annually indefinitely \u2022 For patients with previous spine disease, concurrent spine imaging\u1d47 and CSF sampling as clinically indicated \u2022 For patients with prior ocular involvement, concurrent ophthalmologic follow-up as clinically indicated",
+      "Prior high-dose methotrexate-based regimen without prior RT",
+      "No response or short duration (<12 mo)\u1d57",
+      "Other systemic therapy\u207f or WBRT or involved-field RT\u146b \u00b1 other systemic therapy\u207f or Consider high-dose therapy\u207f,\u1d58 with stem cell rescue\u1d5b (category 2B) or Palliative/best supportive care"
+    ],
+    [
+      "Brain MRI:\u1d47 \u25b8 every 3 mo until 2 y, \u25b8 every 6 mo until 5 y, \u25b8 then annually indefinitely \u2022 For patients with previous spine disease, concurrent spine imaging\u1d47 and CSF sampling as clinically indicated \u2022 For patients with prior ocular involvement, concurrent ophthalmologic follow-up as clinically indicated",
+      "Prior high-dose systemic therapy with stem cell rescue",
+      "Previous response with long duration (\u226512 mo)",
+      "Consider second high-dose systemic therapy with stem cell rescue\u207f,\u1d58,\u1d5b or Other systemic therapy\u207f or Best supportive care"
+    ],
+    [
+      "Brain MRI:\u1d47 \u25b8 every 3 mo until 2 y, \u25b8 every 6 mo until 5 y, \u25b8 then annually indefinitely \u2022 For patients with previous spine disease, concurrent spine imaging\u1d47 and CSF sampling as clinically indicated \u2022 For patients with prior ocular involvement, concurrent ophthalmologic follow-up as clinically indicated",
+      "Prior high-dose systemic therapy with stem cell rescue",
+      "No response or short duration (<12 mo)",
+      "WBRT or involved-field RT\u146b or Other systemic therapy\u207f or Palliative/best supportive care"
+    ]
+  ],
+  "cns_23": [
+    [
+      "Patient\u2019s disease managed by: Observation or Maximum safe resection for intradural intramedullary tumor or intradural extramedullary tumor",
+      "Low-grade tumors (1\u20132)",
+      "Spine MRI every 3\u20136 mo until 5 y, then at least annually indefinitely",
+      "New/worsening symptoms or radiographic progression",
+      "Re-resection or RT\u1da0 if surgery not possible or Systemic therapy\u2071 relative to cell type if further surgery or RT not possible"
+    ],
+    [
+      "Patient\u2019s disease managed by: Observation or Maximum safe resection for intradural intramedullary tumor or intradural extramedullary tumor",
+      "High-grade tumors (3\u20134)",
+      "Spine MRI 2\u20136 wks after treatment, then every 2\u20134 mo until 2\u20133 y, then every 3\u20136 mo until 5 y, then every 6\u201312 mo indefinitely",
+      "New/worsening symptoms or radiographic progression",
+      "Re-resection or RT\u1da0 if surgery not possible or Systemic therapy\u2071 relative to cell type if further surgery or RT not possible"
+    ]
+  ],
+  "cns_24": [
+    [
+      "WHO grade 1 and 2\u1d49,\u2071 or unresected meningiomas: Brain MRI\u1d48,\u1d49 at 3, 6, and 12 mo, then every 6\u201312 mo for 5 y, then every 1\u20133 y as clinically indicated",
+      "Recurrent or progressive disease\u02b2",
+      "Surgery if accessible",
+      "Brain MRI\u1d48,\u1d49",
+      "Consider clinical trial or RT\u1da0 (if no prior RT) or Consider reirradiation\u1da0"
+    ],
+    [
+      "WHO grade 1 and 2\u1d49,\u2071 or unresected meningiomas: Brain MRI\u1d48,\u1d49 at 3, 6, and 12 mo, then every 6\u201312 mo for 5 y, then every 1\u20133 y as clinically indicated",
+      "Recurrent or progressive disease\u02b2",
+      "Not surgically accessible",
+      "RT possible",
+      "RT\u1da0"
+    ],
+    [
+      "WHO grade 1 and 2\u1d49,\u2071 or unresected meningiomas: Brain MRI\u1d48,\u1d49 at 3, 6, and 12 mo, then every 6\u201312 mo for 5 y, then every 1\u20133 y as clinically indicated",
+      "Recurrent or progressive disease\u02b2",
+      "Not surgically accessible",
+      "RT not possible",
+      "Consider systemic therapy\u1d4f"
+    ],
+    [
+      "WHO grade 1 and 2\u1d49,\u2071 or unresected meningiomas: Brain MRI\u1d48,\u1d49 at 3, 6, and 12 mo, then every 6\u201312 mo for 5 y, then every 1\u20133 y as clinically indicated",
+      "Recurrent or progressive disease\u02b2",
+      "Treatment not clinically indicated",
+      "Observation"
+    ],
+    [
+      "WHO grade 3\u1d49,\u2071 meningiomas: Brain MRI\u1d48,\u1d49 every 2\u20134 mo for 3 y, then every 3\u20136 mo",
+      "Recurrent or progressive disease\u02b2",
+      "Surgery if accessible",
+      "Brain MRI\u1d48,\u1d49",
+      "Consider clinical trial or RT\u1da0 (if no prior RT) or Consider reirradiation\u1da0"
+    ],
+    [
+      "WHO grade 3\u1d49,\u2071 meningiomas: Brain MRI\u1d48,\u1d49 every 2\u20134 mo for 3 y, then every 3\u20136 mo",
+      "Recurrent or progressive disease\u02b2",
+      "Not surgically accessible",
+      "RT possible",
+      "RT\u1da0"
+    ],
+    [
+      "WHO grade 3\u1d49,\u2071 meningiomas: Brain MRI\u1d48,\u1d49 every 2\u20134 mo for 3 y, then every 3\u20136 mo",
+      "Recurrent or progressive disease\u02b2",
+      "Not surgically accessible",
+      "RT not possible",
+      "Consider systemic therapy\u1d4f"
+    ],
+    [
+      "WHO grade 3\u1d49,\u2071 meningiomas: Brain MRI\u1d48,\u1d49 every 2\u20134 mo for 3 y, then every 3\u20136 mo",
+      "Recurrent or progressive disease\u02b2",
+      "Treatment not clinically indicated",
+      "Observation"
+    ]
+  ],
+  "hcc1": [
+    [
+      "Ultrasound (US)\u207d\u1d43,\u02b2\u207e + Alpha fetoprotein (AFP)",
+      "AFP positive\u207d\u1d43,\u1d4f\u207e or US nodule(s) \u226510 mm",
+      "Additional workup (HCC-2)"
+    ],
+    [
+      "Ultrasound (US)\u207d\u1d43,\u02b2\u207e + Alpha fetoprotein (AFP)",
+      "US nodule(s) <10 mm",
+      "Repeat US + AFP in 3\u20136 mo"
+    ],
+    [
+      "Ultrasound (US)\u207d\u1d43,\u02b2\u207e + Alpha fetoprotein (AFP)",
+      "US negative\u207d\u02e1\u207e",
+      "Repeat US + AFP in 6 mo"
+    ]
+  ],
+  "gas9": [
+    [
+      "Peritoneal only metastatic disease (including positive cytology)",
+      "H&P \u2022 Staging with CT chest/abdomen/pelvis with oral and IV contrast \u2022 Consider diagnostic laparoscopy \u2022 FDG-PET/CT as clinically indicated \u2022 Pathology review\u1d48",
+      "Systemic therapy (GAST-F 4 of 20) for a minimum of 3 months\u1d56",
+      "Restaging with: \u2022 CT scan \u2022 Diagnostic laparoscopy with washings with documented peritoneal cancer index (PCI) \u00b1 biopsy \u2022 Consider FDG-PET/CT \u2022 Consider EGD",
+      "Low PCI (\u226410), stable or improved disease, no metastatic progression, no extraperitoneal disease",
+      "Multidisciplinary consultation\u207f",
+      "Complete cytoreduction predicted",
+      "Clinical trial or Gastrectomy with cytoreductive surgery, and intraperitoneal chemotherapy (IC)/ hyperthermic intraperitoneal chemotherapy (HIPEC)\u1d4f\u1d4f or Continue systemic therapy\u1d56"
+    ],
+    [
+      "Peritoneal only metastatic disease (including positive cytology)",
+      "H&P \u2022 Staging with CT chest/abdomen/pelvis with oral and IV contrast \u2022 Consider diagnostic laparoscopy \u2022 FDG-PET/CT as clinically indicated \u2022 Pathology review\u1d48",
+      "Systemic therapy (GAST-F 4 of 20) for a minimum of 3 months\u1d56",
+      "Restaging with: \u2022 CT scan \u2022 Diagnostic laparoscopy with washings with documented peritoneal cancer index (PCI) \u00b1 biopsy \u2022 Consider FDG-PET/CT \u2022 Consider EGD",
+      "Low PCI (\u226410), stable or improved disease, no metastatic progression, no extraperitoneal disease",
+      "Multidisciplinary consultation\u207f",
+      "Incomplete cytoreduction predicted",
+      "Clinical trial or Continue systemic therapy\u1d56"
+    ],
+    [
+      "Peritoneal only metastatic disease (including positive cytology)",
+      "H&P \u2022 Staging with CT chest/abdomen/pelvis with oral and IV contrast \u2022 Consider diagnostic laparoscopy \u2022 FDG-PET/CT as clinically indicated \u2022 Pathology review\u1d48",
+      "Systemic therapy (GAST-F 4 of 20) for a minimum of 3 months\u1d56",
+      "Restaging with: \u2022 CT scan \u2022 Diagnostic laparoscopy with washings with documented peritoneal cancer index (PCI) \u00b1 biopsy \u2022 Consider FDG-PET/CT \u2022 Consider EGD",
+      "High PCI (>10), progression of disease, extraperitoneal metastases",
+      "Systemic therapy\u1d56 or Clinical trial or Best supportive care\u2071\u2071"
+    ]
+  ],
+  "eso18": [
+    [
+      "Confirm diagnosis",
+      "Flat neoplasia (no nodule or mass)",
+      "Diagnosis: HGD",
+      "Treatment: ER (with either ESD or EMR) \u00b1 ablation"
+    ],
+    [
+      "Confirm diagnosis",
+      "Flat neoplasia (no nodule or mass)",
+      "Diagnosis: HGD",
+      "Treatment: Ablation"
+    ],
+    [
+      "Confirm diagnosis",
+      "Flat neoplasia (no nodule or mass)",
+      "Diagnosis: Early carcinoma",
+      "Treatment: ER (with either ESD or EMR) \u00b1 ablation"
+    ],
+    [
+      "Confirm diagnosis",
+      "Flat neoplasia (no nodule or mass)",
+      "Diagnosis: Early carcinoma",
+      "Treatment: Ablation"
+    ],
+    [
+      "Confirm diagnosis",
+      "Visible lesion present",
+      "Diagnosis: HGD",
+      "Nodule/mass size < 2 cm",
+      "Treatment: ER (with either ESD or EMR) \u00b1 ablation",
+      "Next step: Assess for curative resection"
+    ],
+    [
+      "Confirm diagnosis",
+      "Visible lesion present",
+      "Diagnosis: Early carcinoma",
+      "Nodule/mass size < 2 cm",
+      "Treatment: ER (with either ESD or EMR) \u00b1 ablation",
+      "Next step: Assess for curative resection"
+    ],
+    [
+      "Confirm diagnosis",
+      "Visible lesion present",
+      "Diagnosis: HGD",
+      "Nodule/mass size \u2265 2 cm",
+      "Biopsy features",
+      "No high-risk biopsy features",
+      "Treatment: ESD \u00b1 ablation",
+      "Next step: Assess for curative resection"
+    ],
+    [
+      "Confirm diagnosis",
+      "Visible lesion present",
+      "Diagnosis: HGD",
+      "Nodule/mass size \u2265 2 cm",
+      "Biopsy features",
+      "No high-risk biopsy features",
+      "Treatment: Esophagectomy (for patients who are medically fit)",
+      "Next step: Assess for curative resection"
+    ],
+    [
+      "Confirm diagnosis",
+      "Visible lesion present",
+      "Diagnosis: HGD",
+      "Nodule/mass size \u2265 2 cm",
+      "Biopsy features",
+      "Presence of high-risk biopsy features (poor differentiation or LVI)",
+      "Treatment: Consider ER if technically feasible to accurately stage",
+      "Next step: Assess for curative resection"
+    ],
+    [
+      "Confirm diagnosis",
+      "Visible lesion present",
+      "Diagnosis: Early carcinoma",
+      "Nodule/mass size \u2265 2 cm",
+      "Biopsy features",
+      "No high-risk biopsy features",
+      "Treatment: ESD \u00b1 ablation",
+      "Next step: Assess for curative resection"
+    ],
+    [
+      "Confirm diagnosis",
+      "Visible lesion present",
+      "Diagnosis: Early carcinoma",
+      "Nodule/mass size \u2265 2 cm",
+      "Biopsy features",
+      "No high-risk biopsy features",
+      "Treatment: Esophagectomy (for patients who are medically fit)",
+      "Next step: Assess for curative resection"
+    ],
+    [
+      "Confirm diagnosis",
+      "Visible lesion present",
+      "Diagnosis: Early carcinoma",
+      "Nodule/mass size \u2265 2 cm",
+      "Biopsy features",
+      "Presence of high-risk biopsy features (poor differentiation or LVI)",
+      "Treatment: Consider ER if technically feasible to accurately stage",
+      "Next step: Assess for curative resection"
+    ]
+  ],
+  "eso17": [
+    [
+      "Confirm diagnosis\u1d43",
+      "No high-risk features",
+      "Lesion size <15 mm",
+      "ER (with either endoscopic submucosal dissection [ESD]\u1d47 or endoscopic mucosal resection [EMR]) \u00b1 ablation",
+      "Assess for curative resection\u1da0"
+    ],
+    [
+      "Confirm diagnosis\u1d43",
+      "No high-risk features",
+      "Lesion size \u226515 mm",
+      "ESD \u00b1 ablation",
+      "Assess for curative resection\u1da0"
+    ],
+    [
+      "Confirm diagnosis\u1d43",
+      "Endoscopic (ulcerated) or pathologic (poorly differentiated or LVI) high-risk features",
+      "Esophagectomy for patients who are medically fit (ESOPH-4) (preferred)\u1d9c or Preoperative or definitive chemoradiation\u1d48,\u1d49"
+    ]
+  ],
+  "eso16": [
+    [
+      "Unresectable locally advanced, Locally recurrent or Metastatic disease",
+      "Karnofsky performance score \u226560% or ECOG performance score \u22642",
+      "Perform microsatellite, PD-L1, HER2, and CLDN18.2 testing (if not done previously)\u1d9c \u2022 NGS should be considered via validated assay\u1d9c",
+      "Systemic therapy\u02e3,\u02e1\u02e1 and/or Palliative/Best supportive care\u02b0\u02b0"
+    ],
+    [
+      "Unresectable locally advanced, Locally recurrent or Metastatic disease",
+      "Karnofsky performance score <60% or ECOG performance score \u22653",
+      "Palliative/Best supportive care\u02b0\u02b0"
+    ]
+  ],
+  "eso7": [
+    [
+      "Unresectable locally advanced, Locally recurrent, or Metastatic disease",
+      "Karnofsky performance score \u226560% or ECOG performance score \u22642",
+      "Perform microsatellite and PD-L1 testing (if not done previously)\u1d9c \u2022 NGS should be considered via validated assay\u1d9c",
+      "Systemic therapy\u02e3,\u02e1\u02e1 and/or Palliative/Best supportive care\u02b0\u02b0"
+    ],
+    [
+      "Unresectable locally advanced, Locally recurrent, or Metastatic disease",
+      "Karnofsky performance score <60% or ECOG performance score \u22653",
+      "Palliative/Best supportive care\u02b0\u02b0"
+    ]
+  ],
+  "col6": [
+    [
+      "Serial CEA elevation",
+      "\u2022 Physical exam \u2022 Colonoscopy \u2022 C/A/P CT with contrast\u1d47",
+      "Negative findings",
+      "\u2022 Consider FDG-PET/CT\u1d47 \u2022 Re-evaluate C/A/P CT\u1d47 with contrast in 3 mo",
+      "Negative findings"
+    ],
+    [
+      "Serial CEA elevation",
+      "\u2022 Physical exam \u2022 Colonoscopy \u2022 C/A/P CT with contrast\u1d47",
+      "Negative findings",
+      "\u2022 Consider FDG-PET/CT\u1d47 \u2022 Re-evaluate C/A/P CT\u1d47 with contrast in 3 mo",
+      "Positive findings",
+      "See treatment for documented metachronous metastases, below"
+    ],
+    [
+      "Serial CEA elevation",
+      "\u2022 Physical exam \u2022 Colonoscopy \u2022 C/A/P CT with contrast\u1d47",
+      "Positive findings",
+      "See treatment for documented metachronous metastases, below"
+    ],
+    [
+      "Documented metachronous metastases\u02b2,\u1d4f\u1d4f by CT, MRI, and/or biopsy",
+      "Resectable\u1d4d",
+      "pMMR/MSS (COL-10)"
+    ],
+    [
+      "Documented metachronous metastases\u02b2,\u1d4f\u1d4f by CT, MRI, and/or biopsy",
+      "Resectable\u1d4d",
+      "dMMR/MSI-H or POLE/POLD1 mutation with ultra-hypermutated phenotype [eg, TMB>50 mut/Mb]\u2071\u2071 (COL-15)"
+    ],
+    [
+      "Documented metachronous metastases\u02b2,\u1d4f\u1d4f by CT, MRI, and/or biopsy",
+      "Unresectable (potentially convertible\u1d4d or unconvertible)",
+      "pMMR/MSS treatment (COL-11)"
+    ],
+    [
+      "Documented metachronous metastases\u02b2,\u1d4f\u1d4f by CT, MRI, and/or biopsy",
+      "Unresectable (potentially convertible\u1d4d or unconvertible)",
+      "dMMR/MSI-H or POLE/POLD1 mutation with ultra-hypermutated phenotype [eg, TMB>50 mut/Mb]\u2071\u2071",
+      "Systemic therapy COL-D 3 of 12"
+    ]
+  ],
+  "cns34": [
+    [
+      "Spine MRI/CT\u1d48 1\u20133 mo after treatment, then every 3\u20134 mo for 1 y, then as clinically indicated",
+      "Progressive disease or Recurrent disease",
+      "If previously treated with: RT or Surgery and RT",
+      "Consider: \u2022 Surgery\u1d50 or SBRT\u207f,\u1d56 \u2022 Reirradiation if recurrent \u2022 Radioablation/augmentation for recurrent painful lesions\u146b"
+    ],
+    [
+      "Spine MRI/CT\u1d48 1\u20133 mo after treatment, then every 3\u20134 mo for 1 y, then as clinically indicated",
+      "Progressive disease or Recurrent disease",
+      "If previously treated with: Systemic therapy",
+      "Consider surgery\u1d50 + RT\u207f"
+    ]
+  ],
+  "cns31": [
+    [
+      "CSF cytology negative\u02e1,\u1d50",
+      "Continue on current therapy (systemic or intra-CSF) and re-evaluate CSF cytology every 4\u20138 weeks",
+      "Maintenance therapy\u02b0 and Monitor CSF cytology every 4\u20138 weeks"
+    ],
+    [
+      "CSF cytology positive",
+      "Patient clinically stable or improving and there is no evidence of radiologic progression of leptomeningeal disease",
+      "Continue current therapy\u02b0 (systemic or intra-CSF) for 4 wks",
+      "Negative cytology or persistent positive cytology, but patient is clinically stable",
+      "Maintenance therapy\u02b0 and Monitor CSF cytology every 4\u20138 weeks"
+    ],
+    [
+      "CSF cytology positive",
+      "Patient clinically stable or improving and there is no evidence of radiologic progression of leptomeningeal disease",
+      "Continue current therapy\u02b0 (systemic or intra-CSF) for 4 wks",
+      "Cytology continually positive and evidence of clinical or radiologic progression of leptomeningeal disease",
+      "Standard RT\u02b2 to symptomatic sites or Palliative/best supportive care"
+    ],
+    [
+      "CSF cytology positive",
+      "Patient clinically stable or improving and there is no evidence of radiologic progression of leptomeningeal disease",
+      "Consider switching therapy and treat for 4 wks before re-evaluating CSF cytology",
+      "Negative cytology or persistent positive cytology, but patient is clinically stable",
+      "Maintenance therapy\u02b0 and Monitor CSF cytology every 4\u20138 weeks"
+    ],
+    [
+      "CSF cytology positive",
+      "Patient clinically stable or improving and there is no evidence of radiologic progression of leptomeningeal disease",
+      "Consider switching therapy and treat for 4 wks before re-evaluating CSF cytology",
+      "Cytology continually positive and evidence of clinical or radiologic progression of leptomeningeal disease",
+      "Standard RT\u02b2 to symptomatic sites or Palliative/best supportive care"
+    ],
+    [
+      "CSF cytology positive",
+      "Evidence of clinical or radiologic progression of leptomeningeal disease",
+      "Consider switching therapy (systemic or intra-CSF)",
+      "Standard RT\u02b2 to symptomatic sites or Palliative/best supportive care"
+    ]
+  ],
+  "cns30": [
+    [
+      "Brain MRI every 2\u20133 mo for 1\u20132 y, then every 4\u20136 mo indefinitely\u02b2",
+      "Recurrent disease\u1d4f",
+      "Systemic disease progression, with limited systemic treatment options",
+      "Palliative/best supportive care"
+    ],
+    [
+      "Brain MRI every 2\u20133 mo for 1\u20132 y, then every 4\u20136 mo indefinitely\u02b2",
+      "Recurrent disease\u1d4f",
+      "Stable systemic disease or reasonable systemic treatment options",
+      "Surgery or SRS\u1d49 or HA-WBRTe,\u1da0 + memantine or WBRT\u1d49 without HA \u00b1 memantine or Systemic therapy\u2071",
+      "Brain MRI\u1d43 every 2\u20133 mo for 1\u20132 y, then every 4\u20136 mo indefinitely\u02b2"
+    ]
+  ],
+  "cns28": [
+    [
+      "Relapse",
+      "Stable systemic disease or reasonable systemic treatment options",
+      "Surgery\u1d48 or SRS\u2071 or HA-WBRT\u2071,\u02e1 if not previously administered + memantine\u02e1 or WBRT\u2071 if not previously administered without HA \u00b1 memantine\u02e1 or Laser thermal ablation\u1d48,\u146b or Systemic therapy\u02b0"
+    ],
+    [
+      "Relapse",
+      "Systemic disease progression, with limited systemic treatment options and poor PS",
+      "No prior WBRT",
+      "HA-WBRT\u2071,\u02e1 + memantine\u02e1 or WBRT\u2071 without HA \u00b1 memantine\u02e1 or SRS in select patients\u2071 or Palliative/best supportive care"
+    ],
+    [
+      "Relapse",
+      "Systemic disease progression, with limited systemic treatment options and poor PS",
+      "Prior WBRT",
+      "Reirradiation\u2071, if prior positive response to RT or SRS in select patients\u2071 or Palliative/best supportive care"
+    ]
+  ],
+  "nscl_2": [
+    [
+      "Incidental finding: solid nodule(s) on chest CT",
+      "Low riske",
+      "<6 mm",
+      "No routine follow-up"
+    ],
+    [
+      "Incidental finding: solid nodule(s) on chest CT",
+      "Low riske",
+      "6\u20138 mm",
+      "CT at 6\u201312 mo",
+      "Stable",
+      "Consider CT at 18\u201324 mo"
+    ],
+    [
+      "Incidental finding: solid nodule(s) on chest CT",
+      "Low riske",
+      ">8 mm",
+      "Consider CT at 3 mo, FDG-PET/CTi or biopsyj"
+    ],
+    [
+      "Incidental finding: solid nodule(s) on chest CT",
+      "High riskf",
+      "<6 mm",
+      "CT at 12 mo (optional)",
+      "Stable",
+      "No routine follow-up"
+    ],
+    [
+      "Incidental finding: solid nodule(s) on chest CT",
+      "High riskf",
+      "6\u20138 mm",
+      "CT at 6\u201312 mo",
+      "Stable",
+      "Repeat CT at 18\u201324 mo"
+    ],
+    [
+      "Incidental finding: solid nodule(s) on chest CT",
+      "High riskf",
+      ">8 mm",
+      "Consider CT at 3 mo, FDG-PET/CTi or biopsyj"
+    ]
+  ],
+  "nscl_3": [
+    [
+      "Incidental finding: subsolid nodule(s) on chest CT",
+      "Solitary pure ground-glass nodules",
+      "<6 mm",
+      "No routine follow-up"
+    ],
+    [
+      "Incidental finding: subsolid nodule(s) on chest CT",
+      "Solitary pure ground-glass nodules",
+      "\u22656 mm",
+      "CT at 6\u201312 mo to confirm no growth or development of a solid component, then CT every 2 y until 5 y"
+    ],
+    [
+      "Incidental finding: subsolid nodule(s) on chest CT",
+      "Solitary part-solid nodules",
+      "<6 mm",
+      "No routine follow-up"
+    ],
+    [
+      "Incidental finding: subsolid nodule(s) on chest CT",
+      "Solitary part-solid nodules",
+      "\u22656 mm",
+      "\u2022 CT at 3\u20136 mo to confirm no growth or change in solid component, then annual CT for 5 y",
+      "\u2022 If solid component \u22656 mm, consider FDG-PET/CTi or biopsyj"
+    ],
+    [
+      "Incidental finding: subsolid nodule(s) on chest CT",
+      "Multiple subsolid nodules",
+      "<6 mm",
+      "\u2022 CT at 3\u20136 mo",
+      "\u25b8 If stable, consider CT at 2 and 4 y"
+    ],
+    [
+      "Incidental finding: subsolid nodule(s) on chest CT",
+      "Multiple subsolid nodules",
+      "\u22656 mm",
+      "\u2022 CT at 3\u20136 mo",
+      "\u2022 Subsequent management based on most suspicious nodule(s)"
+    ]
+  ],
+  "pancreatic_5": [
+    [
+      "Good or intermediate performance status (PS)y",
+      "Clinical trial (preferred) or Systemic therapy\u2020 or Induction chemotherapy\u2020 (preferably 4\u20136 mo) followed by chemoradiation\u2020,u,aa,bb or stereotactic body RT (SBRT)u in selected patients (locally advanced without systemic metastasesCC) or Chemoradiation\u2020,u or SBRTu in patients who are not candidates for induction chemotherapy",
+      "No disease progressiondd",
+      "Consider resection,r if feasible",
+      "Adjuvant therapy, if clinically indicated\u2020"
+    ],
+    [
+      "Good or intermediate performance status (PS)y",
+      "Clinical trial (preferred) or Systemic therapy\u2020 or Induction chemotherapy\u2020 (preferably 4\u20136 mo) followed by chemoradiation\u2020,u,aa,bb or stereotactic body RT (SBRT)u in selected patients (locally advanced without systemic metastasesCC) or Chemoradiation\u2020,u or SBRTu in patients who are not candidates for induction chemotherapy",
+      "No disease progressiondd",
+      "Continue systemic therapy\u2020"
+    ],
+    [
+      "Good or intermediate performance status (PS)y",
+      "Clinical trial (preferred) or Systemic therapy\u2020 or Induction chemotherapy\u2020 (preferably 4\u20136 mo) followed by chemoradiation\u2020,u,aa,bb or stereotactic body RT (SBRT)u in selected patients (locally advanced without systemic metastasesCC) or Chemoradiation\u2020,u or SBRTu in patients who are not candidates for induction chemotherapy",
+      "No disease progressiondd",
+      "Observe",
+      "Continued surveillance"
+    ],
+    [
+      "Good or intermediate performance status (PS)y",
+      "Clinical trial (preferred) or Systemic therapy\u2020 or Induction chemotherapy\u2020 (preferably 4\u20136 mo) followed by chemoradiation\u2020,u,aa,bb or stereotactic body RT (SBRT)u in selected patients (locally advanced without systemic metastasesCC) or Chemoradiation\u2020,u or SBRTu in patients who are not candidates for induction chemotherapy",
+      "No disease progressiondd",
+      "Clinical trial"
+    ],
+    [
+      "Good or intermediate performance status (PS)y",
+      "Clinical trial (preferred) or Systemic therapy\u2020 or Induction chemotherapy\u2020 (preferably 4\u20136 mo) followed by chemoradiation\u2020,u,aa,bb or stereotactic body RT (SBRT)u in selected patients (locally advanced without systemic metastasesCC) or Chemoradiation\u2020,u or SBRTu in patients who are not candidates for induction chemotherapy",
+      "Disease progression",
+      "Clinical trial (preferred) or Systemic therapy\u2020 or Chemoradiation\u2020,u or SBRTu if not previously given and if primary site is the sole site of progression",
+      "Good PS and disease progression",
+      "Clinical trial"
+    ],
+    [
+      "Good or intermediate performance status (PS)y",
+      "Clinical trial (preferred) or Systemic therapy\u2020 or Induction chemotherapy\u2020 (preferably 4\u20136 mo) followed by chemoradiation\u2020,u,aa,bb or stereotactic body RT (SBRT)u in selected patients (locally advanced without systemic metastasesCC) or Chemoradiation\u2020,u or SBRTu in patients who are not candidates for induction chemotherapy",
+      "Disease progression",
+      "Clinical trial (preferred) or Systemic therapy\u2020 or Chemoradiation\u2020,u or SBRTu if not previously given and if primary site is the sole site of progression",
+      "Declining PS",
+      "Palliative and best supportive cares"
+    ],
+    [
+      "Good or intermediate performance status (PS)y",
+      "Clinical trial (preferred) or Systemic therapy\u2020 or Induction chemotherapy\u2020 (preferably 4\u20136 mo) followed by chemoradiation\u2020,u,aa,bb or stereotactic body RT (SBRT)u in selected patients (locally advanced without systemic metastasesCC) or Chemoradiation\u2020,u or SBRTu in patients who are not candidates for induction chemotherapy",
+      "Disease progression",
+      "Palliative and best supportive cares and Consider single-agent chemotherapy\u2020 or possibly targeted therapy\u2020 based on molecular profiling,j as clinically indicated or Palliative RTu"
+    ],
+    [
+      "Good or intermediate performance status (PS)y",
+      "Clinical trial (preferred) or Systemic therapy\u2020 or Induction chemotherapy\u2020 (preferably 4\u20136 mo) followed by chemoradiation\u2020,u,aa,bb or stereotactic body RT (SBRT)u in selected patients (locally advanced without systemic metastasesCC) or Chemoradiation\u2020,u or SBRTu in patients who are not candidates for induction chemotherapy",
+      "Poor PS and disease progression",
+      "Palliative and best supportive cares and Consider single-agent chemotherapy\u2020 or possibly targeted therapy\u2020 based on molecular profiling,j as clinically indicated or Palliative RTu"
+    ],
+    [
+      "Poor PS",
+      "Palliative and best supportive cares and Consider single-agent chemotherapy\u2020 or palliative RTu"
+    ]
+  ],
+  "pancreatic_10": [
+    [
+      "Disease progression",
+      "Consider re-biopsy if adequate tissue is not available for molecular profiling",
+      "Good or intermediate PSy",
+      "Clinical trial (preferred) or Systemic therapy,\u2020 which may include targeted therapy or immunotherapy based on molecular profiling,j as clinically indicated or RTu for severe pain refractory to analgesic therapy",
+      "Palliative and best supportive cares or Clinical trial"
+    ],
+    [
+      "Disease progression",
+      "Consider re-biopsy if adequate tissue is not available for molecular profiling",
+      "Poor PS",
+      "Palliative and best supportive cares and Consider single-agent chemotherapy\u2020 or Targeted therapy\u2020 based on molecular profiling,j as clinically indicated or Palliative RTu"
+    ]
+  ],
+  "pancreatic_11": [
+    [
+      "Metastatic disease with or without local recurrencejj,ll",
+      "\u22656 mo from completion of primary therapy",
+      "Clinical trial (preferred)"
+    ],
+    [
+      "Metastatic disease with or without local recurrencejj,ll",
+      "\u22656 mo from completion of primary therapy",
+      "Repeat systemic therapy previously administered\u2020"
+    ],
+    [
+      "Metastatic disease with or without local recurrencejj,ll",
+      "\u22656 mo from completion of primary therapy",
+      "Alternate systemic therapy (not previously used)\u2020"
+    ],
+    [
+      "Metastatic disease with or without local recurrencejj,ll",
+      "\u22656 mo from completion of primary therapy",
+      "Palliative and best supportive cares"
+    ],
+    [
+      "Metastatic disease with or without local recurrencejj,ll",
+      "<6 mo from completion of primary therapy",
+      "Clinical trial (preferred)"
+    ],
+    [
+      "Metastatic disease with or without local recurrencejj,ll",
+      "<6 mo from completion of primary therapy",
+      "Switch to gemcitabine-based systemic chemotherapy\u2020 (if fluoropyrimidine-based therapy previously used)"
+    ],
+    [
+      "Metastatic disease with or without local recurrencejj,ll",
+      "<6 mo from completion of primary therapy",
+      "Switch to fluoropyrimidine-based systemic chemotherapy\u2020 (if gemcitabine-based therapy previously used)"
+    ],
+    [
+      "Metastatic disease with or without local recurrencejj,ll",
+      "<6 mo from completion of primary therapy",
+      "Alternate systemic therapy (not previously used)\u2020"
+    ],
+    [
+      "Metastatic disease with or without local recurrencejj,ll",
+      "<6 mo from completion of primary therapy",
+      "Palliative and best supportive cares"
+    ]
+  ],
+  "prostate_14": [
+    [
+      "CRPC, imaging studies negative for distant metastases",
+      "Continue ADTc,z to maintain castrate serum levels of testosterone (<50 ng/dL)",
+      "PSADT >10 mo",
+      "Monitoringjj (preferred) or Other secondary hormone therapyz",
+      "PSA increasing or radiographic evidence of metastases",
+      "Imagingf,ff",
+      "No metastases (M0)",
+      "Change or maintain current treatment and continue periodic disease assessment"
+    ],
+    [
+      "CRPC, imaging studies negative for distant metastases",
+      "Continue ADTc,z to maintain castrate serum levels of testosterone (<50 ng/dL)",
+      "PSADT >10 mo",
+      "Monitoringjj (preferred) or Other secondary hormone therapyz",
+      "PSA increasing or radiographic evidence of metastases",
+      "Imagingf,ff",
+      "Metastases (M1)",
+      "See Workup and Treatment of M1 CRPC (PROS-15)"
+    ],
+    [
+      "CRPC, imaging studies negative for distant metastases",
+      "Continue ADTc,z to maintain castrate serum levels of testosterone (<50 ng/dL)",
+      "PSADT >10 mo",
+      "Monitoringjj (preferred) or Other secondary hormone therapyz",
+      "Stable PSA and no evidence of metastases",
+      "Maintain current treatment and consider periodic disease assessment (PSA and imaging)f"
+    ],
+    [
+      "CRPC, imaging studies negative for distant metastases",
+      "Continue ADTc,z to maintain castrate serum levels of testosterone (<50 ng/dL)",
+      "PSADT \u226410 mo",
+      "Preferred regimens:\n\u2022 Apalutamidez (category 1)\n\u2022 Darolutamidez (category 1)\n\u2022 Enzalutamidez (category 1)\nOther recommended regimens:\n\u2022 Other secondary hormone therapyz",
+      "Consider periodic disease assessment (PSA and imaging)f",
+      "PSA increasing or radiographic evidence of metastases",
+      "Imagingf,ff",
+      "No metastases (M0)",
+      "Change or maintain current treatment and continue periodic disease assessment"
+    ],
+    [
+      "CRPC, imaging studies negative for distant metastases",
+      "Continue ADTc,z to maintain castrate serum levels of testosterone (<50 ng/dL)",
+      "PSADT \u226410 mo",
+      "Preferred regimens:\n\u2022 Apalutamidez (category 1)\n\u2022 Darolutamidez (category 1)\n\u2022 Enzalutamidez (category 1)\nOther recommended regimens:\n\u2022 Other secondary hormone therapyz",
+      "Consider periodic disease assessment (PSA and imaging)f",
+      "PSA increasing or radiographic evidence of metastases",
+      "Imagingf,ff",
+      "Metastases (M1)",
+      "See Workup and Treatment of M1 CRPC (PROS-15)"
+    ],
+    [
+      "CRPC, imaging studies negative for distant metastases",
+      "Continue ADTc,z to maintain castrate serum levels of testosterone (<50 ng/dL)",
+      "PSADT \u226410 mo",
+      "Preferred regimens:\n\u2022 Apalutamidez (category 1)\n\u2022 Darolutamidez (category 1)\n\u2022 Enzalutamidez (category 1)\nOther recommended regimens:\n\u2022 Other secondary hormone therapyz",
+      "Consider periodic disease assessment (PSA and imaging)f",
+      "Stable PSA and no evidence of metastases",
+      "Maintain current treatment and consider periodic disease assessment (PSA and imaging)f"
+    ]
+  ],
+  "sclc_7": [
+    [
+      "Relapse or primary progressive diseasegg",
+      "PS 0\u20132",
+      "Subsequent systemic therapym,t or Palliative symptom managementr,ee including localized RTn to symptomatic sites",
+      "Response",
+      "Continue until progressionff or development of unacceptable toxicity",
+      "PS 0\u20132",
+      "\u2022 Consider subsequent systemic therapym,t\n\u2022 Palliative symptom management,r,ee including localized RTn to symptomatic sites"
+    ],
+    [
+      "Relapse or primary progressive diseasegg",
+      "PS 0\u20132",
+      "Subsequent systemic therapym,t or Palliative symptom managementr,ee including localized RTn to symptomatic sites",
+      "Response",
+      "Continue until progressionff or development of unacceptable toxicity",
+      "PS 3\u20134",
+      "Palliative symptom management,r,ee including localized RTn to symptomatic sites"
+    ],
+    [
+      "Relapse or primary progressive diseasegg",
+      "PS 0\u20132",
+      "Subsequent systemic therapym,t or Palliative symptom managementr,ee including localized RTn to symptomatic sites",
+      "No response or unacceptable toxicity",
+      "PS 0\u20132",
+      "\u2022 Consider subsequent systemic therapym,t\n\u2022 Palliative symptom management,r,ee including localized RTn to symptomatic sites"
+    ],
+    [
+      "Relapse or primary progressive diseasegg",
+      "PS 0\u20132",
+      "Subsequent systemic therapym,t or Palliative symptom managementr,ee including localized RTn to symptomatic sites",
+      "No response or unacceptable toxicity",
+      "PS 3\u20134",
+      "Palliative symptom management,r,ee including localized RTn to symptomatic sites"
+    ],
+    [
+      "Relapse or primary progressive diseasegg",
+      "PS 3\u20134",
+      "Palliative symptom management,r,ff including localized RTn to symptomatic sites"
+    ]
+  ],
+  "thyroid_2": [
+    [
+      "AUSa (Bethesda III)c or Follicular neoplasm (Bethesda IV)a,b",
+      "Molecular diagnostics indicate benign lesionb",
+      "Nodule surveillanceg,j"
+    ],
+    [
+      "AUSa (Bethesda III)c or Follicular neoplasm (Bethesda IV)a,b",
+      "Molecular diagnostics not informative or with insufficient or degraded sample",
+      "Nodule surveillanceg,j"
+    ],
+    [
+      "AUSa (Bethesda III)c or Follicular neoplasm (Bethesda IV)a,b",
+      "Molecular diagnostics not informative or with insufficient or degraded sample",
+      "Consider lobectomy in select situations for definitive diagnosis/treatment"
+    ],
+    [
+      "AUSa (Bethesda III)c or Follicular neoplasm (Bethesda IV)a,b",
+      "Molecular diagnostics not informative or with insufficient or degraded sample",
+      "Consider repeat biopsy"
+    ],
+    [
+      "AUSa (Bethesda III)c or Follicular neoplasm (Bethesda IV)a,b",
+      "Molecular diagnostics suggestive of malignancy",
+      "Consider lobectomy or total thyroidectomy (depending on molecular results)b for definitive diagnosis/treatment"
+    ],
+    [
+      "AUSa (Bethesda III)c or Follicular neoplasm (Bethesda IV)a,b",
+      "Molecular diagnostics suggestive of malignancy",
+      "Nodule surveillanceg,j"
+    ]
+  ],
+  "thyroid_4": [
+    [
+      "Post-lobectomym",
+      "\u2022 Thyroid and neck ultrasound (including central and lateral cervical nodal compartments), if not previously done\n\u2022 Biopsy suspicious lymph nodes or contralateral lesions that meet sonographic criteria by ATA and TI-RADSn",
+      "Any of the following:\n\u2022 Gross positive resection margins\n\u2022 Gross extra-thyroidal extension\n\u2022 Confirmed nodal metastasish\n\u2022 Confirmed contralateral disease\n\u2022 Vascular invasion",
+      "Completion of thyroidectomy\n\u2022 Perform therapeutic neck dissection of involved compartments for clinically apparent/biopsy-proven disease if not previously done",
+      "Postsurgical Evaluation (PAP-3)"
+    ],
+    [
+      "Post-lobectomym",
+      "\u2022 Thyroid and neck ultrasound (including central and lateral cervical nodal compartments), if not previously done\n\u2022 Biopsy suspicious lymph nodes or contralateral lesions that meet sonographic criteria by ATA and TI-RADSn",
+      "Any of the following:\n\u2022 Tumor >4 cm\n\u2022 Lymphatic invasion\n\u2022 Macroscopic multifocal disease (>1 cm)\n\u2022 Poorly differentiated and differentiated high-grade carcinoma",
+      "Completion of thyroidectomy",
+      "Postsurgical Evaluation (PAP-3)"
+    ],
+    [
+      "Post-lobectomym",
+      "\u2022 Thyroid and neck ultrasound (including central and lateral cervical nodal compartments), if not previously done\n\u2022 Biopsy suspicious lymph nodes or contralateral lesions that meet sonographic criteria by ATA and TI-RADSn",
+      "Any of the following:\n\u2022 Tumor >4 cm\n\u2022 Lymphatic invasion\n\u2022 Macroscopic multifocal disease (>1 cm)\n\u2022 Poorly differentiated and differentiated high-grade carcinoma",
+      "Disease monitoringj (category 2B)",
+      "Consider levothyroxine therapy to keep thyroid stimulating hormone (TSH) low or normalk"
+    ],
+    [
+      "Post-lobectomym",
+      "\u2022 Thyroid and neck ultrasound (including central and lateral cervical nodal compartments), if not previously done\n\u2022 Biopsy suspicious lymph nodes or contralateral lesions that meet sonographic criteria by ATA and TI-RADSn",
+      "All of the following:\n\u2022 Negative resection margins\n\u2022 No contralateral lesion\n\u2022 No suspicious lymph node\nor\n\u2022 NIFTPi",
+      "Disease monitoringj",
+      "Consider levothyroxine therapy to keep TSH normalk",
+      "Disease Monitoring and Maintenance (PAP-7)"
+    ]
+  ],
+  "thyroid_10": [
+    [
+      "Total thyroidectomy with RAI",
+      "\u2022 Physical examination\n\u2022 Neck ultrasound at 6\u201312 months\n\u2022 TSH\n\u2022 Tg measurement and Tg abee",
+      "Rising or new Tg abff",
+      "Consider additional imaging (CT neck/chest), PET, or RAI imaging",
+      "Recurrent Disease (PAP-9)"
+    ],
+    [
+      "Total thyroidectomy with RAI",
+      "\u2022 Physical examination\n\u2022 Neck ultrasound at 6\u201312 months\n\u2022 TSH\n\u2022 Tg measurement and Tg abee",
+      "Abnormal imaging and/or rising Tg",
+      "Consider biopsy of suspicious areas on imaging with Tg washout. Follow-up imaging of known iodine-avid disease with cross-sectional imaging (CT or MRI).",
+      "Recurrent Disease (PAP-9)"
+    ],
+    [
+      "Total thyroidectomy with RAI",
+      "\u2022 Physical examination\n\u2022 Neck ultrasound at 6\u201312 months\n\u2022 TSH\n\u2022 Tg measurement and Tg abee",
+      "No evidence of disease",
+      "\u2022 Physical examination\n\u2022 TSHk\n\u2022 Tg measurement and Tg ab annually if stable\n\u2022 Neck ultrasound annually for 5 years, and then less often if imaging and Tg measurement and Tg ab stable\n\u2022 See NCCN Guidelines for Survivorship",
+      "Recurrent Disease (PAP-9)"
+    ],
+    [
+      "Total thyroidectomy with RAI",
+      "\u2022 Physical examination\n\u2022 Neck ultrasound at 6\u201312 months\n\u2022 TSH\n\u2022 Tg measurement and Tg abee",
+      "No evidence of disease",
+      "\u2022 Physical examination\n\u2022 TSHk\n\u2022 Tg measurement and Tg ab annually if stable\n\u2022 Neck ultrasound annually for 5 years, and then less often if imaging and Tg measurement and Tg ab stable\n\u2022 See NCCN Guidelines for Survivorship",
+      "Metastatic Disease (PAP-10)"
+    ]
+  ],
+  "thyroid_11": [
+    [
+      "Recurrent Disease\n\u2022 Rising or newly elevated Tg and negative imaging\n\u2022 Non-resectable tumors\n\u2022 Non-radioiodine responsivegg",
+      "Suppress TSH with levothyroxinek",
+      "Continue surveillance with unstimulated Tg, ultrasound, and other imaging as clinically indicated (PAP-7)"
+    ],
+    [
+      "Locoregional recurrence",
+      "Consider iodine total body scan",
+      "Surgery (preferred) if resectableii and\nConsider RAI therapy,hh if preoperative or postoperative radioiodine imaging positive\nDisease monitoring for non-progressive disease that is stable and distant from critical structures"
+    ],
+    [
+      "Locoregional recurrence",
+      "Consider iodine total body scan",
+      "For select patients with unresectable, non\u2013radioiodine-avid, and progressive disease, consider:\n\u25b8 RTq\nand/or\n\u25b8 Systemic therapies (Treatment [PAP-10])"
+    ],
+    [
+      "Locoregional recurrence",
+      "Consider iodine total body scan",
+      "For select patients with limited burden nodal disease, consider local therapies when available (ethanol ablation, radiofrequency ablation [RFA])"
+    ],
+    [
+      "Metastatic disease",
+      "RAI therapy for iodine-avid diseaseq\nand/or\nLocal therapies when availablejj\nand/or\nIf RAI-refractory, see Treatment (PAP-10)"
+    ]
+  ],
+  "thyroid_23": [
+    [
+      "Structurally persistent/recurrent locoregional or distant metastatic RAI-refractory disease",
+      "For advanced, progressive, or threatening disease, somatic testing to identify actionable mutations (including ALK, NTRK, BRAF, and RET gene fusions), dMMR, MSI, and TMB",
+      "Brain imaging (CT or MRI) with contrast for CNS symptoms or prior to starting systemic therapy",
+      "Unresectable locoregional recurrent/persistent disease",
+      "Consider clinical trial"
+    ],
+    [
+      "Structurally persistent/recurrent locoregional or distant metastatic RAI-refractory disease",
+      "For advanced, progressive, or threatening disease, somatic testing to identify actionable mutations (including ALK, NTRK, BRAF, and RET gene fusions), dMMR, MSI, and TMB",
+      "Brain imaging (CT or MRI) with contrast for CNS symptoms or prior to starting systemic therapy",
+      "Unresectable locoregional recurrent/persistent disease",
+      "Consider systemic therapy for progressive and/or symptomatic disease (Principles of Systemic Therapy [THYR-B])"
+    ],
+    [
+      "Structurally persistent/recurrent locoregional or distant metastatic RAI-refractory disease",
+      "For advanced, progressive, or threatening disease, somatic testing to identify actionable mutations (including ALK, NTRK, BRAF, and RET gene fusions), dMMR, MSI, and TMB",
+      "Brain imaging (CT or MRI) with contrast for CNS symptoms or prior to starting systemic therapy",
+      "Unresectable locoregional recurrent/persistent disease",
+      "Continue to suppress TSH with levothyroxine"
+    ],
+    [
+      "Structurally persistent/recurrent locoregional or distant metastatic RAI-refractory disease",
+      "For advanced, progressive, or threatening disease, somatic testing to identify actionable mutations (including ALK, NTRK, BRAF, and RET gene fusions), dMMR, MSI, and TMB",
+      "Brain imaging (CT or MRI) with contrast for CNS symptoms or prior to starting systemic therapy",
+      "Unresectable locoregional recurrent/persistent disease",
+      "Consider resection of distant metastases and/or EBRT or other local therapies when available to metastatic lesions if progressive and/or symptomatic (Treatment of Locoregional Recurrence [FOLL-8])"
+    ],
+    [
+      "Structurally persistent/recurrent locoregional or distant metastatic RAI-refractory disease",
+      "For advanced, progressive, or threatening disease, somatic testing to identify actionable mutations (including ALK, NTRK, BRAF, and RET gene fusions), dMMR, MSI, and TMB",
+      "Brain imaging (CT or MRI) with contrast for CNS symptoms or prior to starting systemic therapy",
+      "Unresectable locoregional recurrent/persistent disease",
+      "Disease monitoring is often appropriate in asymptomatic patients with indolent disease assuming no brain metastasis (FOLL-6)"
+    ],
+    [
+      "Structurally persistent/recurrent locoregional or distant metastatic RAI-refractory disease",
+      "For advanced, progressive, or threatening disease, somatic testing to identify actionable mutations (including ALK, NTRK, BRAF, and RET gene fusions), dMMR, MSI, and TMB",
+      "Brain imaging (CT or MRI) with contrast for CNS symptoms or prior to starting systemic therapy",
+      "Unresectable locoregional recurrent/persistent disease",
+      "Best supportive care, see NCCN Guidelines for Palliative Care"
+    ],
+    [
+      "Structurally persistent/recurrent locoregional or distant metastatic RAI-refractory disease",
+      "For advanced, progressive, or threatening disease, somatic testing to identify actionable mutations (including ALK, NTRK, BRAF, and RET gene fusions), dMMR, MSI, and TMB",
+      "Brain imaging (CT or MRI) with contrast for CNS symptoms or prior to starting systemic therapy",
+      "Soft tissue metastases (eg, lung, liver, muscle) excluding CNS metastases (see below)",
+      "Consider clinical trial"
+    ],
+    [
+      "Structurally persistent/recurrent locoregional or distant metastatic RAI-refractory disease",
+      "For advanced, progressive, or threatening disease, somatic testing to identify actionable mutations (including ALK, NTRK, BRAF, and RET gene fusions), dMMR, MSI, and TMB",
+      "Brain imaging (CT or MRI) with contrast for CNS symptoms or prior to starting systemic therapy",
+      "Soft tissue metastases (eg, lung, liver, muscle) excluding CNS metastases (see below)",
+      "Consider systemic therapy for progressive and/or symptomatic disease (Principles of Systemic Therapy [THYR-B])"
+    ],
+    [
+      "Structurally persistent/recurrent locoregional or distant metastatic RAI-refractory disease",
+      "For advanced, progressive, or threatening disease, somatic testing to identify actionable mutations (including ALK, NTRK, BRAF, and RET gene fusions), dMMR, MSI, and TMB",
+      "Brain imaging (CT or MRI) with contrast for CNS symptoms or prior to starting systemic therapy",
+      "Soft tissue metastases (eg, lung, liver, muscle) excluding CNS metastases (see below)",
+      "Continue to suppress TSH with levothyroxine"
+    ],
+    [
+      "Structurally persistent/recurrent locoregional or distant metastatic RAI-refractory disease",
+      "For advanced, progressive, or threatening disease, somatic testing to identify actionable mutations (including ALK, NTRK, BRAF, and RET gene fusions), dMMR, MSI, and TMB",
+      "Brain imaging (CT or MRI) with contrast for CNS symptoms or prior to starting systemic therapy",
+      "Soft tissue metastases (eg, lung, liver, muscle) excluding CNS metastases (see below)",
+      "Consider resection of distant metastases and/or EBRT or other local therapies when available to metastatic lesions if progressive and/or symptomatic (Treatment of Locoregional Recurrence [FOLL-8])"
+    ],
+    [
+      "Structurally persistent/recurrent locoregional or distant metastatic RAI-refractory disease",
+      "For advanced, progressive, or threatening disease, somatic testing to identify actionable mutations (including ALK, NTRK, BRAF, and RET gene fusions), dMMR, MSI, and TMB",
+      "Brain imaging (CT or MRI) with contrast for CNS symptoms or prior to starting systemic therapy",
+      "Soft tissue metastases (eg, lung, liver, muscle) excluding CNS metastases (see below)",
+      "Disease monitoring is often appropriate in asymptomatic patients with indolent disease assuming no brain metastasis (FOLL-6)"
+    ],
+    [
+      "Structurally persistent/recurrent locoregional or distant metastatic RAI-refractory disease",
+      "For advanced, progressive, or threatening disease, somatic testing to identify actionable mutations (including ALK, NTRK, BRAF, and RET gene fusions), dMMR, MSI, and TMB",
+      "Brain imaging (CT or MRI) with contrast for CNS symptoms or prior to starting systemic therapy",
+      "Soft tissue metastases (eg, lung, liver, muscle) excluding CNS metastases (see below)",
+      "Best supportive care, see NCCN Guidelines for Palliative Care"
+    ],
+    [
+      "Structurally persistent/recurrent locoregional or distant metastatic RAI-refractory disease",
+      "For advanced, progressive, or threatening disease, somatic testing to identify actionable mutations (including ALK, NTRK, BRAF, and RET gene fusions), dMMR, MSI, and TMB",
+      "Brain imaging (CT or MRI) with contrast for CNS symptoms or prior to starting systemic therapy",
+      "Bone metastases (FOLL-10)"
+    ],
+    [
+      "Structurally persistent/recurrent locoregional or distant metastatic RAI-refractory disease",
+      "For advanced, progressive, or threatening disease, somatic testing to identify actionable mutations (including ALK, NTRK, BRAF, and RET gene fusions), dMMR, MSI, and TMB",
+      "Brain imaging (CT or MRI) with contrast for CNS symptoms or prior to starting systemic therapy",
+      "CNS metastases (FOLL-11)"
+    ]
+  ],
+  "thyroid_26": [
+    [
+      "Oncocytic follicular neoplasm (Bethesda IV) THYR-1",
+      "Assess for signs of malignancy",
+      "Any concerning features",
+      "Evidence of locoregional spread (ETE, nodal disease)",
+      "Consider neck CT",
+      "Total thyroidectomy and therapeutic neck dissection",
+      "Postsurgical Evaluation (ONC-2)"
+    ],
+    [
+      "Oncocytic follicular neoplasm (Bethesda IV) THYR-1",
+      "Assess for signs of malignancy",
+      "Any concerning features",
+      "No evidence of locoregional spread",
+      "Lobectomy or total thyroidectomy (lobectomy may be preferred for smaller tumor)",
+      "Invasive cancer (widely invasive or encapsulated angioinvasive with \u22654 vessels)",
+      "Completion of thyroidectomy",
+      "Postsurgical Evaluation (ONC-2)"
+    ],
+    [
+      "Oncocytic follicular neoplasm (Bethesda IV) THYR-1",
+      "Assess for signs of malignancy",
+      "Any concerning features",
+      "No evidence of locoregional spread",
+      "Lobectomy or total thyroidectomy (lobectomy may be preferred for smaller tumor)",
+      "Encapsulated angioinvasive with <4 vessels or Minimally invasive oncocytic carcinoma",
+      "Disease monitoring (preferred)",
+      "Consider levothyroxine therapy to keep TSH low or normal",
+      "Disease Monitoring and Maintenance (ONC-6)"
+    ],
+    [
+      "Oncocytic follicular neoplasm (Bethesda IV) THYR-1",
+      "Assess for signs of malignancy",
+      "Any concerning features",
+      "No evidence of locoregional spread",
+      "Lobectomy or total thyroidectomy (lobectomy may be preferred for smaller tumor)",
+      "Benign",
+      "Disease monitoring",
+      "Consider levothyroxine therapy to keep TSH low or normal",
+      "Disease Monitoring and Maintenance (ONC-6)"
+    ],
+    [
+      "Oncocytic follicular neoplasm (Bethesda IV) THYR-1",
+      "Assess for signs of malignancy",
+      "All features reassuring, including molecular genetics",
+      "Observe"
+    ]
+  ],
+  "thyroid_27": [
+    [
+      "Gross residual disease in neck",
+      "Cross-sectional CT or MRI of neck with contrast",
+      "FDG-PET/CT or FDG-PET/MRI",
+      "Resectable",
+      "Resect, if possible",
+      "No gross residual disease",
+      "Consideration for Initial Postoperative RAI Therapy (ONC-3)"
+    ],
+    [
+      "Gross residual disease in neck",
+      "Cross-sectional CT or MRI of neck with contrast",
+      "FDG-PET/CT or FDG-PET/MRI",
+      "Resectable",
+      "Resect, if possible",
+      "Gross residual disease",
+      "TSH + Tg measurement + Tg ab (6\u201312 weeks postoperatively)",
+      "Iodine-123 or iodine-131 total body radioiodine imaging (category 2B)",
+      "RAI uptake absent",
+      "Monitoring of residual disease or Consider EBRT if disease is threatening vital structures"
+    ],
+    [
+      "Gross residual disease in neck",
+      "Cross-sectional CT or MRI of neck with contrast",
+      "FDG-PET/CT or FDG-PET/MRI",
+      "Resectable",
+      "Resect, if possible",
+      "Gross residual disease",
+      "TSH + Tg measurement + Tg ab (6\u201312 weeks postoperatively)",
+      "Iodine-123 or iodine-131 total body radioiodine imaging (category 2B)",
+      "RAI uptake present or No RAI imaging performed",
+      "RAI therapy (preferred)",
+      "Consider EBRT if disease is threatening vital structures"
+    ],
+    [
+      "Gross residual disease in neck",
+      "Cross-sectional CT or MRI of neck with contrast",
+      "FDG-PET/CT or FDG-PET/MRI",
+      "Unresectable noninvasive and not metastatic",
+      "TSH + Tg measurement + Tg ab (6\u201312 weeks postoperatively)",
+      "Iodine-123 or iodine-131 total body radioiodine imaging (category 2B)",
+      "RAI uptake present or No RAI imaging performed",
+      "RAI therapy"
+    ],
+    [
+      "Gross residual disease in neck",
+      "Cross-sectional CT or MRI of neck with contrast",
+      "FDG-PET/CT or FDG-PET/MRI",
+      "Unresectable invasive or widely metastatic",
+      "TSH + Tg measurement + Tg ab (6\u201312 weeks postoperatively)",
+      "Iodine-123 or iodine-131 total body radioiodine imaging (category 2B)",
+      "RAI uptake absent",
+      "Treatment of Locally Recurrent, Advanced, and/or Metastatic Disease (ONC-9)"
+    ],
+    [
+      "Gross residual disease in neck",
+      "Cross-sectional CT or MRI of neck with contrast",
+      "FDG-PET/CT or FDG-PET/MRI",
+      "Unresectable invasive or widely metastatic",
+      "TSH + Tg measurement + Tg ab (6\u201312 weeks postoperatively)",
+      "Iodine-123 or iodine-131 total body radioiodine imaging (category 2B)",
+      "Heterogeneous uptake (ie, some but not all known disease has iodine uptake)",
+      "Treatment of Locally Recurrent, Advanced, and/or Metastatic Disease (ONC-9)",
+      "Consider RAI when majority of disease is RAI avid"
+    ],
+    [
+      "Gross residual disease in neck",
+      "Cross-sectional CT or MRI of neck with contrast",
+      "FDG-PET/CT or FDG-PET/MRI",
+      "Unresectable invasive or widely metastatic",
+      "For locoregional invasive disease or rapid progression, consider EBRT, systemic therapy"
+    ]
+  ],
+  "thyroid_31": [
+    [
+      "Lobectomy",
+      "Physical examination",
+      "TSH",
+      "Neck ultrasound at 6\u201312 months",
+      "Abnormal contralateral nodule or lymph node",
+      "Biopsy of suspicious areas (if lymph node, consider Tg washout)",
+      "Postsurgical Evaluation (ONC-2)"
+    ],
+    [
+      "Lobectomy",
+      "Physical examination",
+      "TSH",
+      "Neck ultrasound at 6\u201312 months",
+      "No evidence of disease",
+      "Physical examination",
+      "Neck ultrasound as clinically indicated",
+      "See NCCN Guidelines for Survivorship",
+      "Recurrent Disease (ONC-8) or Metastatic Disease (ONC-9)"
+    ],
+    [
+      "Total thyroidectomy without RAI",
+      "Physical examination",
+      "TSH",
+      "Tg measurement and Tg ab at 6\u201312 weeks",
+      "Neck ultrasound at 6\u201312 months",
+      "Rising or new Tg ab",
+      "Consider additional imaging (CT neck/chest), PET, or RAI imaging",
+      "Recurrent Disease (ONC-8) or Metastatic Disease (ONC-9)"
+    ],
+    [
+      "Total thyroidectomy without RAI",
+      "Physical examination",
+      "TSH",
+      "Tg measurement and Tg ab at 6\u201312 weeks",
+      "Neck ultrasound at 6\u201312 months",
+      "Abnormal imaging and/or rising Tg",
+      "Biopsy of suspicious areas on imaging (consider Tg washout)",
+      "Recurrent Disease (ONC-8) or Metastatic Disease (ONC-9)"
+    ],
+    [
+      "Total thyroidectomy without RAI",
+      "Physical examination",
+      "TSH",
+      "Tg measurement and Tg ab at 6\u201312 weeks",
+      "Neck ultrasound at 6\u201312 months",
+      "No evidence of disease",
+      "Physical examination",
+      "TSH (goal based on risk stratification)",
+      "Tg measurement and Tg ab annually if stable",
+      "Neck ultrasound as clinically indicated",
+      "See NCCN Guidelines for Survivorship",
+      "Recurrent Disease (ONC-8)"
+    ]
+  ],
+  "thyroid_32": [
+    [
+      "Total thyroidectomy with RAI",
+      "RAI uptake present on post-therapy scan",
+      "Physical examination",
+      "Neck ultrasound at 6\u201312 months",
+      "TSH",
+      "Tg measurement and Tg ab",
+      "Follow-up imaging of known iodine-avid disease with cross-sectional imaging (CT or MRI)",
+      "Rising Tg or new or rising Tg ab",
+      "Consider additional imaging (CT neck/chest), PET, or RAI imaging",
+      "Recurrent Disease (ONC-8) or Metastatic Disease (ONC-9)"
+    ],
+    [
+      "Total thyroidectomy with RAI",
+      "RAI uptake present on post-therapy scan",
+      "Physical examination",
+      "Neck ultrasound at 6\u201312 months",
+      "TSH",
+      "Tg measurement and Tg ab",
+      "Follow-up imaging of known iodine-avid disease with cross-sectional imaging (CT or MRI)",
+      "Abnormal imaging",
+      "Consider biopsy of suspicious areas on imaging (consider Tg washout)",
+      "Recurrent Disease (ONC-8) or Metastatic Disease (ONC-9)"
+    ],
+    [
+      "Total thyroidectomy with RAI",
+      "RAI uptake present on post-therapy scan",
+      "Physical examination",
+      "Neck ultrasound at 6\u201312 months",
+      "TSH",
+      "Tg measurement and Tg ab",
+      "Follow-up imaging of known iodine-avid disease with cross-sectional imaging (CT or MRI)",
+      "No evidence of disease",
+      "Physical examination",
+      "TSH",
+      "Tg measurement and Tg ab annually if stable",
+      "Neck ultrasound annually for 5 years, and then less often if imaging and Tg ab stable",
+      "See NCCN Guidelines for Survivorship",
+      "Recurrent Disease (ONC-8)"
+    ],
+    [
+      "Total thyroidectomy with RAI",
+      "RAI uptake absent on post-therapy scan",
+      "Physical examination",
+      "Neck ultrasound at 6\u201312 months",
+      "TSH",
+      "Tg measurement and Tg ab",
+      "Rising Tg or new or rising Tg ab",
+      "Consider additional imaging (CT neck/chest), or PET",
+      "Recurrent Disease (ONC-8) or Metastatic Disease (ONC-9)"
+    ],
+    [
+      "Total thyroidectomy with RAI",
+      "RAI uptake absent on post-therapy scan",
+      "Physical examination",
+      "Neck ultrasound at 6\u201312 months",
+      "TSH",
+      "Tg measurement and Tg ab",
+      "Abnormal imaging",
+      "Consider biopsy of suspicious areas on imaging (consider Tg washout)",
+      "Recurrent Disease (ONC-8) or Metastatic Disease (ONC-9)"
+    ],
+    [
+      "Total thyroidectomy with RAI",
+      "RAI uptake absent on post-therapy scan",
+      "Physical examination",
+      "Neck ultrasound at 6\u201312 months",
+      "TSH",
+      "Tg measurement and Tg ab",
+      "No evidence of disease",
+      "Physical examination",
+      "TSH",
+      "Tg measurement and Tg ab annually if stable",
+      "Neck ultrasound annually for 5 years, and then less often if imaging and Tg ab stable",
+      "See NCCN Guidelines for Survivorship",
+      "Recurrent Disease (ONC-8)"
+    ]
+  ],
+  "thyroid_33": [
+    [
+      "Rising or newly elevated Tg or Tg ab and negative imaging",
+      "Non-resectable tumors",
+      "Non-radioiodine responsive",
+      "Suppress TSH with levothyroxine",
+      "Continue surveillance with Tg, ultrasound, and other imaging as clinically indicated (ONC-6)"
+    ],
+    [
+      "Locoregional recurrence",
+      "Consider iodine total body scan",
+      "Surgery (preferred) if resectable",
+      "Consider RAI therapy, if preoperative or postoperative radioiodine imaging positive"
+    ],
+    [
+      "Locoregional recurrence",
+      "Consider iodine total body scan",
+      "Surgery (preferred) if resectable",
+      "Disease monitoring for non-progressive disease that is stable and distant from critical structures"
+    ],
+    [
+      "Locoregional recurrence",
+      "Consider iodine total body scan",
+      "Surgery (preferred) if resectable",
+      "For select patients with unresectable, non\u2013radioiodine-avid, and progressive disease, consider:",
+      "RT",
+      "Systemic therapies (Treatment [ONC-9])"
+    ],
+    [
+      "Locoregional recurrence",
+      "Consider iodine total body scan",
+      "Surgery (preferred) if resectable",
+      "For select patients with limited burden nodal disease, consider local therapies when available (eg, ethanol ablation, RFA)"
+    ],
+    [
+      "Metastatic disease",
+      "RAI therapy for iodine-avid disease",
+      "Local therapies when available",
+      "Treatment (ONC-9)"
+    ]
+  ],
+  "thyroid_40": [
+    [
+      "MEN2A/FMTC (RET PV)",
+      "No primary hyperparathyroidism",
+      "Management based on codon mutation",
+      "High risk (codon 634 mutations): Surgery before age 5 based on serum calcitonin levels",
+      "Surgery chosen",
+      "Total thyroidectomy and dissection of lymph node compartments based on ultrasound findings and preoperative serum calcitonin levels",
+      "Management 2\u20133 Months Postoperative (MEDU-5)"
+    ],
+    [
+      "MEN2A/FMTC (RET PV)",
+      "No primary hyperparathyroidism",
+      "Management based on codon mutation",
+      "Moderate risk (all other PVs): Prophylactic thyroidectomy may be delayed, provided the annual basal calcitonin measurement is normal, the annual ultrasound is unremarkable, and there is no history of aggressive MTC in the family",
+      "Surgery chosen",
+      "Total thyroidectomy and dissection of lymph node compartments based on ultrasound findings and preoperative serum calcitonin levels",
+      "Management 2\u20133 Months Postoperative (MEDU-5)"
+    ],
+    [
+      "MEN2A/FMTC (RET PV)",
+      "No primary hyperparathyroidism",
+      "Management based on codon mutation",
+      "Low risk (codon V804M mutations): Given the low penetrance of MTC in these patients (~4%), surveillance may be a viable long-term strategy in the absence of a strong family history of MTC",
+      "Surveillance chosen",
+      "Surveillance with annual serum calcitonin measurement and ultrasound"
+    ],
+    [
+      "MEN2A/FMTC (RET PV)",
+      "Primary hyperparathyroidism",
+      "See Primary Treatment as outlined above",
+      "During primary operative procedure and parathyroid exploration:",
+      "If single adenoma, excise",
+      "If multiglandular disease, autotransplant or leave the equivalent mass of one normal parathyroid gland",
+      "Consider cryopreservation of parathyroid tissue",
+      "Management 2\u20133 Months Postoperative (MEDU-5)"
+    ]
+  ],
+  "vulvar_3": [
+    [
+      "Negative margins",
+      "Observe"
+    ],
+    [
+      "Negative margins",
+      "Adjuvant external beam radiation therapy (EBRT) based on other risk factors"
+    ],
+    [
+      "Negative margins for invasive disease",
+      "Observe"
+    ],
+    [
+      "Negative margins for invasive disease",
+      "Adjuvant external beam radiation therapy (EBRT) based on other risk factors"
+    ],
+    [
+      "Positive margin(s) for invasive disease",
+      "Re-excision",
+      "Negative margins for invasive disease",
+      "Observe"
+    ],
+    [
+      "Positive margin(s) for invasive disease",
+      "Re-excision",
+      "Negative margins for invasive disease",
+      "Adjuvant external beam radiation therapy (EBRT) based on other risk factors"
+    ],
+    [
+      "Positive margin(s) for invasive disease",
+      "Re-excision",
+      "Positive margins for invasive disease",
+      "Adjuvant EBRT"
+    ],
+    [
+      "Positive margin(s) for invasive disease",
+      "Unresectable without removing proximal urethra/bladder/anus",
+      "Adjuvant EBRT"
+    ]
+  ],
+  "vulvar_4": [
+    [
+      "LNs negative [sentinel node(s) or inguinofemoral nodes]",
+      "Observe"
+    ],
+    [
+      "SLN(s) positive",
+      "Single positive SLN \u22642 mm metastasis",
+      "EBRT \u00b1 concurrent chemotherapy"
+    ],
+    [
+      "SLN(s) positive",
+      "Positive SLN >2 mm metastasis",
+      "Complete inguinofemoral lymphadenectomy (preferred)",
+      "EBRT (category 1 for radiation if \u22652 LNs positive or extranodal extension [ENE]) \u00b1 concurrent chemotherapy"
+    ],
+    [
+      "SLN(s) positive",
+      "Positive SLN >2 mm metastasis",
+      "EBRT \u00b1 concurrent chemotherapy"
+    ],
+    [
+      "Inguinofemoral lymphadenectomy with positive LN(s)",
+      "EBRT (category 1 for radiation if \u22652 LNs positive or ENE) \u00b1 concurrent chemotherapy"
+    ]
+  ],
+  "vulvar_10": [
+    [
+      "Confirmed nodal or distant recurrence",
+      "Isolated inguinofemoral/pelvic LN recurrence",
+      "Consider resection of clinically enlarged and suspicious LN(s)",
+      "No prior EBRT",
+      "EBRT + concurrent chemotherapy",
+      "Surveillance (VULVA-8)"
+    ],
+    [
+      "Confirmed nodal or distant recurrence",
+      "Isolated inguinofemoral/pelvic LN recurrence",
+      "Consider resection of clinically enlarged and suspicious LN(s)",
+      "Prior EBRT",
+      "Systemic therapy and/or Selective EBRT if feasible or Best supportive care (NCCN Guidelines for Palliative Care)"
+    ],
+    [
+      "Confirmed nodal or distant recurrence",
+      "Distant metastasis or Prior pelvic EBRT",
+      "Systemic therapy and/or Selective EBRT if feasible or Best supportive care (NCCN Guidelines for Palliative Care)"
+    ]
+  ],
+  "vulvar_12": [
+    [
+      "Mucosal vulvovaginal melanoma",
+      "H&P",
+      "Biopsy, pathologic review",
+      "Imaging",
+      "EUA cystoscopy or proctoscopy as indicated",
+      "Consider somatic mutational testing for vulvar melanoma and mucosal vulvovaginal melanoma as clinically indicated (ie, BRAF, KIT)",
+      "Full skin assessment",
+      "Resectable",
+      "Wide local excision with clear margins (at least 1-cm margin if feasible) and consider SLNB",
+      "Observation"
+    ],
+    [
+      "Mucosal vulvovaginal melanoma",
+      "H&P",
+      "Biopsy, pathologic review",
+      "Imaging",
+      "EUA cystoscopy or proctoscopy as indicated",
+      "Consider somatic mutational testing for vulvar melanoma and mucosal vulvovaginal melanoma as clinically indicated (ie, BRAF, KIT)",
+      "Full skin assessment",
+      "Resectable",
+      "Wide local excision with clear margins (at least 1-cm margin if feasible) and consider SLNB",
+      "RT (brachytherapy preferred for vaginal lesions)"
+    ],
+    [
+      "Mucosal vulvovaginal melanoma",
+      "H&P",
+      "Biopsy, pathologic review",
+      "Imaging",
+      "EUA cystoscopy or proctoscopy as indicated",
+      "Consider somatic mutational testing for vulvar melanoma and mucosal vulvovaginal melanoma as clinically indicated (ie, BRAF, KIT)",
+      "Full skin assessment",
+      "Resectable",
+      "Wide local excision with clear margins (at least 1-cm margin if feasible) and consider SLNB",
+      "EBRT"
+    ],
+    [
+      "Mucosal vulvovaginal melanoma",
+      "H&P",
+      "Biopsy, pathologic review",
+      "Imaging",
+      "EUA cystoscopy or proctoscopy as indicated",
+      "Consider somatic mutational testing for vulvar melanoma and mucosal vulvovaginal melanoma as clinically indicated (ie, BRAF, KIT)",
+      "Full skin assessment",
+      "Resectable",
+      "Wide local excision with clear margins (at least 1-cm margin if feasible) and consider SLNB",
+      "Systemic therapy"
+    ],
+    [
+      "Mucosal vulvovaginal melanoma",
+      "H&P",
+      "Biopsy, pathologic review",
+      "Imaging",
+      "EUA cystoscopy or proctoscopy as indicated",
+      "Consider somatic mutational testing for vulvar melanoma and mucosal vulvovaginal melanoma as clinically indicated (ie, BRAF, KIT)",
+      "Full skin assessment",
+      "Unresectable/Residual disease",
+      "Systemic therapy \u00b1 RT"
+    ]
+  ]
+}

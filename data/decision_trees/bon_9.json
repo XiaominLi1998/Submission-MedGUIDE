@@ -1,0 +1,36 @@
+{
+    "Metastatic Ewing Sarcoma\u1d52": {
+        "Local Control Therapy to Primary Site": {
+            "Approach": [
+                {
+                    "Wide excision\u1d47,\u1d4f": {
+                        "Margins": {
+                            "Positive margins": [
+                                "Continue chemotherapy\u02b0,\u1d50 (category 1) followed by RT\u207f",
+                                "or RT\u207f and chemotherapy\u02b0,\u1d50 (category 1, for chemotherapy)"
+                            ],
+                            "Negative margins\u02e1": [
+                                "Chemotherapy\u02b0,\u1d50 (category 1)"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "Definitive RT\u207f and chemotherapy\u02b0,\u1d50": null
+                }
+            ],
+            "Metastases": {
+                "Oligometastatic disease": "Excision of metastases or RT",
+                "Lung only partial response": "Excision \u00b1 whole lung irradiation (WLI)",
+                "Lung only complete response": "Consider WLI"
+            }
+        },
+        "Widely Metastatic\u1d3e": {
+            "Options": [
+                "Continuing chemotherapy\u02b0,\u146b only with palliative surgery",
+                "Palliative RT to symptomatic areas",
+                "Other techniques for multiple metastases"
+            ]
+        }
+    }
+}

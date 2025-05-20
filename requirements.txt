@@ -1,0 +1,6 @@
+pandas
+datasets
+scikit-learn
+tqdm
+openai  # only if you're using OpenAI models via API
+anthropic  # only if you're using Claude models via API

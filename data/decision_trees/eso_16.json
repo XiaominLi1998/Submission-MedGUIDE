@@ -1,0 +1,22 @@
+{
+    "Unresectable locally advanced, Locally recurrent or Metastatic disease": {
+      "Performance Status": {
+        "Karnofsky performance score ≥60% or ECOG performance score ≤2": {
+          "Next step": [
+            "Perform microsatellite, PD-L1, HER2, and CLDN18.2 testing (if not done previously)",
+            "NGS should be considered via validated assay"
+          ],
+          "Palliative Management": [
+            "Systemic therapy",
+            "Palliative/Best supportive care"
+          ]
+        },
+        "Karnofsky performance score <60% or ECOG performance score ≥3": {
+          "Palliative Management": [
+            "Palliative/Best supportive care"
+          ]
+        }
+      }
+    }
+  }
+  

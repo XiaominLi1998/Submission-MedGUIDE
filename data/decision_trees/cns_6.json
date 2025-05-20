@@ -1,0 +1,62 @@
+{
+  "Recurrent or progressive disease": {
+    "Tumor types": [
+      "WHO grade 1 circumscribed glioma",
+      "WHO grade 2 PXA, circumscribed glioma"
+    ],
+    "Prior fractionated external beam RT (EBRT)": {
+      "Resectable": {
+        "Procedure": [
+          "Surgery",
+          "Brain MRI"
+        ],
+        "Treatment options": [
+          "Consider clinical trial (preferred for eligible patients)",
+          "Start systemic therapy",
+          "Change to a different systemic therapy",
+          "Consider reirradiation with highly focused RT ± systemic therapy in select cases",
+          "Consider observation for gross totally resected tumors",
+          "Palliative/best supportive care"
+        ]
+      },
+      "Unresectable": {
+        "Procedure": "Consider biopsy",
+        "Treatment options": [
+          "Consider clinical trial (preferred for eligible patients)",
+          "Start systemic therapy",
+          "Change to a different systemic therapy",
+          "Consider reirradiation with highly focused RT ± systemic therapy in select cases",
+          "Consider observation for gross totally resected tumors",
+          "Palliative/best supportive care"
+        ]
+      }
+    },
+    "No prior fractionated EBRT": {
+      "Resectable": {
+        "Procedure": [
+          "Surgery",
+          "Brain MRI"
+        ],
+        "Treatment options": [
+          "Consider clinical trial (preferred for eligible patients)",
+          "Standard RT for circumscribed tumors",
+          "Standard RT + adjuvant PCV",
+          "Standard RT + adjuvant TMZ",
+          "Standard RT + concurrent and adjuvant TMZ",
+          "Systemic therapy (category 2B)"
+        ]
+      },
+      "Unresectable": {
+        "Procedure": "Consider biopsy",
+        "Treatment options": [
+          "Consider clinical trial (preferred for eligible patients)",
+          "Standard RT for circumscribed tumors",
+          "Standard RT + adjuvant PCV",
+          "Standard RT + adjuvant TMZ",
+          "Standard RT + concurrent and adjuvant TMZ",
+          "Systemic therapy (category 2B)"
+        ]
+      }
+    }
+  }
+}

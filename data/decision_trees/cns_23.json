@@ -1,0 +1,27 @@
+{
+  "Patient's disease managed by": [
+    "Observation",
+    "Maximum safe resection for intradural intramedullary tumor or intradural extramedullary tumor"
+  ],
+  "Tumor Grade": {
+    "Low-grade tumors (1–2)": {
+      "Follow-up": "Spine MRI every 3–6 months until 5 years, then at least annually indefinitely"
+    },
+    "High-grade tumors (3–4)": {
+      "Follow-up": [
+        "Spine MRI 2–6 weeks after treatment",
+        "Then every 2–4 months until 2–3 years",
+        "Then every 3–6 months until 5 years",
+        "Then every 6–12 months indefinitely"
+      ]
+    }
+  },
+  "Recurrence": {
+    "Trigger": "New/worsening symptoms or radiographic progression",
+    "Treatment for recurrence": [
+      "Re-resection",
+      "RT if surgery not possible",
+      "Systemic therapy relative to cell type if further surgery or RT not possible"
+    ]
+  }
+}

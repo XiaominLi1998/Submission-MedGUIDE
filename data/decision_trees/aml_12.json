@@ -1,0 +1,62 @@
+{
+    "Consolidation Therapy\u02b2\u02b2,\u1d4f\u1d4f": {
+        "Intensive Induction Eligible": {
+            "Favorable-risk AML by cytogenetics or by molecular mutation profile per ELN (AML-A)\u1d48,\u02e1\u02e1": {
+                "Treatment\u2071": [
+                    "Cytarabine\u1d50\u1d50 \u00b1 gemtuzumab ozogamicin\u02e1 (CD33 positive)\u1d50 (only if gemtuzumab ozogamicin was given during induction)",
+                    "Cytarabine\u1d50\u1d50 (5 or 7 days) \u00b1 [(daunorubicin or idarubicin) or (mitoxantrone for age \u226560 y)]\u1dbb",
+                    "Cytarabine\u1d50\u1d50 + (daunorubicin or idarubicin) + gemtuzumab ozogamicin\u02e1,\u1dbb,\u207f\u207f (CD33 positive)\u1d50 (only if gemtuzumab ozogamicin was given during induction)"
+                ],
+                "Next": [
+                    "Consider allogeneic HCT\u02e1,\u146b\u146b",
+                    "Maintenance (AML-7)",
+                    "Surveillance (AML-8)"
+                ]
+            },
+            "AML with FLT3 mutation": {
+                "Treatment\u2071": [
+                    "Allogeneic HCT (preferred for FLT3-ITD)\u02b2\u02b2,\u1d4f\u1d4f,\u1d52\u1d52",
+                    "Cytarabine\u1d50\u1d50 + midostaurin\u1d3e (FLT3-ITD or TKD)",
+                    "Cytarabine\u1d50\u1d50 + quizartinib (FLT3-ITD only)"
+                ],
+                "Next": [
+                    "Allogeneic HCT\u02e1 (if not previously performed)",
+                    "Maintenance (AML-7)",
+                    "Surveillance (AML-8)"
+                ]
+            },
+            "Intermediate-risk AML": {
+                "Treatment\u2071": [
+                    "Cytarabine\u1d50\u1d50,\u1d56\u1d56",
+                    "Cytarabine\u1d50\u1d50 + (daunorubicin or idarubicin) + gemtuzumab ozogamicin\u02e1,\u1dbb,\u207f\u207f (CD33 positive)\u1d50 (only if gemtuzumab ozogamicin was given during induction)",
+                    "Allogeneic HCT\u02b2\u02b2,\u1d4f\u1d4f"
+                ],
+                "Next": [
+                    "Allogeneic HCT\u02e1 (if not previously performed)",
+                    "Maintenance (AML-7)",
+                    "Surveillance (AML-8)"
+                ]
+            },
+            "Poor-risk AML": {
+                "Criteria": [
+                    "With and without TP53 mutation or del(17p) abnormality",
+                    "Therapy-related AML other than CBF-AML",
+                    "Antecedent MDS/CMML",
+                    "Cytogenetic changes consistent with MDS (previously classified as AML-MRC)"
+                ],
+                "Treatment\u2071": [
+                    "Allogeneic HCT\u02b2\u02b2,\u1d4f\u1d4f (preferred)",
+                    "Cytarabine\u1d50\u1d50",
+                    "CPX-351/dual-drug liposomal encapsulation of cytarabine and daunorubicin (preferred only if given during induction)",
+                    "FLAG-IDA (use with caution in patients >60 y) (preferred only if given during induction)\u207f,\u1d50\u1d50",
+                    "Continuation of lower intensity regimen used for induction (e.g., HMA, azacitidine or decitabine) + venetoclax) (AML-4)"
+                ],
+                "Next": [
+                    "Allogeneic HCT\u02e1 (if not previously performed)",
+                    "Maintenance (AML-7)",
+                    "Surveillance (AML-8)"
+                ]
+            }
+        }
+    }
+}

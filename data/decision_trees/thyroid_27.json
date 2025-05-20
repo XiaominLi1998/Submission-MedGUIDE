@@ -1,0 +1,74 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2821
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 \{\
+  "Postsurgical Evaluation": \{\
+    "No gross residual disease in neck": \{\
+      "Action": "Consideration for Initial Postoperative RAI Therapy (ONC-3)"\
+    \},\
+    "Gross residual disease in neck": \{\
+      "Diagnostic steps": [\
+        "Cross-sectional CT or MRI of neck with contrast",\
+        "FDG-PET/CT or FDG-PET/MRI"\
+      ],\
+      "If resectable": \{\
+        "Action": "Resect, if possible",\
+        "Result": \{\
+          "No gross residual disease": \{\
+            "Next": "Consideration for Initial Postoperative RAI Therapy (ONC-3)"\
+          \},\
+          "Gross residual disease": \{\
+            "Evaluation": [\
+              "TSH + Tg measurement + Tg ab (6\'9612 weeks postoperatively)",\
+              "Iodine-123 or Iodine-131 total body radioiodine imaging (category 2B)"\
+            ],\
+            "Outcomes": \{\
+              "RAI uptake absent": \{\
+                "Action": [\
+                  "Monitoring of residual disease",\
+                  "Consider EBRT if disease is threatening vital structures"\
+                ]\
+              \},\
+              "RAI uptake present or No RAI imaging performed": \{\
+                "Action": [\
+                  "RAI therapy (preferred)",\
+                  "Consider EBRT if disease is threatening vital structures"\
+                ]\
+              \}\
+            \}\
+          \}\
+        \}\
+      \},\
+      "If unresectable": \{\
+        "Noninvasive and not metastatic": \{\
+          "Evaluation": [\
+            "TSH + Tg measurement + Tg ab (6\'9612 weeks postoperatively)",\
+            "Iodine-123 or Iodine-131 total body radioiodine imaging (category 2B)"\
+          ],\
+          "Outcomes": \{\
+            "RAI uptake present or No RAI imaging performed": "RAI therapy"\
+          \}\
+        \},\
+        "Invasive or widely metastatic": \{\
+          "Evaluation": [\
+            "TSH + Tg measurement + Tg ab (6\'9612 weeks postoperatively)",\
+            "Iodine-123 or Iodine-131 total body radioiodine imaging (category 2B)"\
+          ],\
+          "Outcomes": \{\
+            "RAI uptake absent": "Treatment of Locally Recurrent, Advanced, and/or Metastatic Disease (ONC-9)",\
+            "Heterogeneous uptake (some but not all known disease has iodine uptake)": [\
+              "Treatment of Locally Recurrent, Advanced, and/or Metastatic Disease (ONC-9)",\
+              "Consider RAI when majority of disease is RAI avid"\
+            ]\
+          \},\
+          "Special consideration": "For locoregional invasive disease or rapid progression, consider EBRT, systemic therapy"\
+        \}\
+      \}\
+    \}\
+  \}\
+\}\
+}

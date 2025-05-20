@@ -1,0 +1,31 @@
+{
+    "Patients at risk for HCC": {
+      "With cirrhosis": {
+        "Child-Turcotte-Pugh (CTP) A or B cirrhosis, any etiology": [
+          "Hepatitis B",
+          "Hepatitis C",
+          "Alcohol-associated cirrhosis",
+          "Metabolic dysfunction-associated steatohepatitis",
+          "Other etiologies"
+        ],
+        "CTP C cirrhosis, transplant candidate": true
+      },
+      "Without cirrhosis": [
+        "Hepatitis B"
+      ],
+      "Next step": {
+        "Ultrasound (US) + Alpha fetoprotein (AFP)": {
+          "AFP positive or US nodule(s) ≥10 mm": {
+            "Next step": "Additional workup (HCC-2)"
+          },
+          "US nodule(s) <10 mm": {
+            "Next step": "Repeat US + AFP in 3–6 months"
+          },
+          "US negative": {
+            "Next step": "Repeat US + AFP in 6 months"
+          }
+        }
+      }
+    }
+  }
+  

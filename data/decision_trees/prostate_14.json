@@ -1,0 +1,37 @@
+{
+  "Workup and Treatment of M0 Castration-Resistant Prostate Cancer (CRPC)": {
+    "Initial Condition": "CRPC, imaging studies negative for distant metastases",
+    "Primary Management": {
+      "Continue ADTᶜ,ᶻ": "Maintain castrate serum levels of testosterone (<50 ng/dL)",
+      "PSADT >10 mo": {
+        "Therapy Options": [
+          "Monitoringʲʲ (preferred)",
+          "Other secondary hormone therapyᶻ"
+        ]
+      },
+      "PSADT ≤10 mo": {
+        "Preferred Regimens": [
+          "Apalutamideᶻ (category 1)",
+          "Darolutamideᶻ (category 1)",
+          "Enzalutamideᶻ (category 1)"
+        ],
+        "Other Recommended Regimens": [
+          "Other secondary hormone therapyᶻ"
+        ],
+        "Follow-up": "Consider periodic disease assessment (PSA and imaging)ᶠ",
+        "Results": {
+          "Stable PSA and no evidence of metastases": {
+            "Action": "Maintain current treatment and consider periodic disease assessment (PSA and imaging)ᶠ"
+          },
+          "PSA increasing or radiographic evidence of metastases": {
+            "Action": "Imagingᶠ,ᶠᶠ",
+            "Result": {
+              "No metastases (M0)": "Change or maintain current treatment and continue periodic disease assessment",
+              "Metastases (M1)": "See Workup and Treatment of M1 CRPC (PROS-15)"
+            }
+          }
+        }
+      }
+    }
+  }
+}

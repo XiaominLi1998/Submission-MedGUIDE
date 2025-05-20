@@ -1,0 +1,45 @@
+{
+    "Recurrence": {
+      "Serial CEA elevation": {
+        "Workup": [
+          "Physical exam",
+          "Colonoscopy",
+          "C/A/P CT with contrast"
+        ],
+        "Findings": {
+          "Negative findings": {
+            "Next step": [
+              "Consider FDG-PET/CT",
+              "Re-evaluate C/A/P CT with contrast in 3 months"
+            ],
+            "Further findings": {
+              "Negative findings": "End of path",
+              "Positive findings": "See treatment for documented metachronous metastases"
+            }
+          },
+          "Positive findings": "See treatment for documented metachronous metastases"
+        }
+      }
+    },
+    "Documented metachronous metastases (by CT, MRI, and/or biopsy)": {
+      "Workup": "Consider FDG-PET/CT",
+      "Resectability assessment": {
+        "Resectable": {
+          "Molecular Subtype": {
+            "pMMR/MSS": "COL-10",
+            "dMMR/MSI-H or POLE/POLD1 mutation with ultra-hypermutated phenotype (e.g., TMB >50 mut/Mb)": "COL-15"
+          }
+        },
+        "Unresectable (potentially convertible or unconvertible)": {
+          "Molecular Subtype": {
+            "pMMR/MSS": "pMMR/MSS treatment (COL-11)",
+            "dMMR/MSI-H or POLE/POLD1 mutation with ultra-hypermutated phenotype (e.g., TMB >50 mut/Mb)": [
+              "Systemic therapy",
+              "COL-D 3 of 12"
+            ]
+          }
+        }
+      }
+    }
+  }
+  

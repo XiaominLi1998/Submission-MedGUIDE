@@ -1,0 +1,23 @@
+{
+    "Follow-up": {
+      "Brain MRI": "Every 2–3 months for 1–2 years, then every 4–6 months indefinitely",
+      "Recurrence": {
+        "Recurrent disease": {
+          "Systemic disease progression with limited systemic treatment options": {
+            "Treatment": "Palliative/best supportive care"
+          },
+          "Stable systemic disease or reasonable systemic treatment options": {
+            "Treatment Options": [
+              "Surgery",
+              "SRS",
+              "HA-WBRT + memantine",
+              "WBRT without HA ± memantine",
+              "Systemic therapy"
+            ],
+            "Follow-up": "Brain MRI every 2–3 months for 1–2 years, then every 4–6 months indefinitely"
+          }
+        }
+      }
+    }
+  }
+  

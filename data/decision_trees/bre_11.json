@@ -1,0 +1,29 @@
+{
+  "Preoperative systemic therapy (BINV-L 1)": {
+    "Response to preoperative systemic therapy and tumor is operable": {
+      "Locoregional treatment and adjuvant therapy": {
+        "Surgical treatment options": [
+          "Mastectomy and surgical axillary staging + reconstruction (optional)",
+          "BCS with surgical axillary staging ± oncoplastic reconstruction"
+        ],
+        "Adjuvant treatment": {
+          "Systemic therapy": "Adjuvant systemic therapy (BINV-16)",
+          "Radiation": "Adjuvant RT to the whole breast or chest wall and comprehensive RNI with inclusion of any portion of the undissected axilla at risk."
+        }
+      }
+    },
+    "No response to preoperative systemic therapy and/or tumor remains inoperable": {
+      "Next steps": {
+        "Consider": "Additional systemic therapy and/or preoperative radiation",
+        "Reassess": {
+          "Response to preoperative systemic therapy and tumor is operable": {
+            "Follow pathway": "Follow pathway above"
+          },
+          "No response to preoperative systemic therapy and tumor is inoperable": {
+            "Next step": "Individualize treatment"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+    "APL": {
+        "First relapse (morphologic or molecular)\u2070": {
+            "Early relapse (<6 mo) after ATRA and arsenic trioxide (no anthracycline)": {
+                "Therapy for relapse": [
+                    "Anthracycline-based regimen as per APL-3\u1d56,\u146b",
+                    "Gemtuzumab ozogamicin\u00b9\u00b2"
+                ]
+            },
+            "No prior exposure to arsenic trioxide OR early relapse (<6 mo) after ATRA + anthracycline-containing regimen\u00b9\u00b9": {
+                "Therapy for relapse": [
+                    "Arsenic trioxide \u00b1 ATRA\u00b9\u00b9 \u00b1 gemtuzumab ozogamicin\u1d56,\u146b"
+                ]
+            },
+            "Late relapse (\u22656 mo) after arsenic trioxide-containing regimen": {
+                "Therapy for relapse": [
+                    "Arsenic trioxide \u00b1 ATRA \u00b1 (anthracycline or gemtuzumab ozogamicin)\u1d56,\u146b,\u02b3"
+                ]
+            }
+        },
+        "Second remission (morphologic)": {
+            "Additional therapy": {
+                "Consider CNS prophylaxis": "IT chemotherapy (methotrexate or cytarabine)",
+                "PCR result (by BM)": {
+                    "PCR negative": {
+                        "Transplant candidate": "Autologous HCT\u02e2",
+                        "Not transplant candidate": "Arsenic trioxide consolidation (total of 6 cycles)"
+                    },
+                    "PCR positive": {
+                        "Transplant candidate": "Matched sibling or alternative donor HCT\u02e2,\u00b9\u00b9",
+                        "Not transplant candidate": "Clinical trial"
+                    }
+                }
+            }
+        },
+        "No remission": {
+            "Next steps": [
+                "Clinical trial",
+                "Matched sibling or alternative donor HCT\u02e2"
+            ]
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+  "Advanced phase CML": {
+    "Treatment considerations": [
+      "Disease progression to advanced phase while on TKI therapy has worse prognosis than de novo advanced phase CML",
+      "Evaluation for allogeneic HCT as indicated",
+      "Selection of TKI is based on prior therapy and/or BCR::ABL1 mutation profile",
+      "CNS involvement has been described in BP-CML. Lumbar puncture and CNS prophylaxis is recommended for lymphoid BP-CML"
+    ],
+    "Subtype": {
+      "AP-CML": {
+        "Treatment": {
+          "Options": [
+            "Clinical trial",
+            "Preferred regimens: 2G TKI (Bosutinib, Dasatinib, or Nilotinib) or 3G TKI (Ponatinib)"
+          ],
+          "Useful in certain circumstances": [
+            "1G TKI (Imatinib) if 2G or 3G TKI is contraindicated",
+            "Allosteric TKI (Asciminib)"
+          ],
+          "If lack of response or disease progression": "Allogeneic HCT (CML-6)"
+        }
+      },
+      "BP-CML": {
+        "Lineage": {
+          "Lymphoid": {
+            "Treatment": {
+              "Options": [
+                "Clinical trial",
+                "Preferred regimens: ALL-type induction chemotherapy (NCCN Guidelines for ALL) + TKI"
+              ],
+              "Useful in certain circumstances": [
+                "TKI + steroids (if not a candidate for induction chemotherapy)"
+              ],
+              "For patients in remission": [
+                "Allogeneic HCT (CML-6)",
+                "Consolidation chemotherapy and TKI maintenance for non-candidates for allogeneic HCT"
+              ]
+            }
+          },
+          "Myeloid": {
+            "Treatment": {
+              "Options": [
+                "Clinical trial",
+                "Preferred regimens: AML-type induction chemotherapy (NCCN Guidelines for AML) + TKI"
+              ],
+              "Useful in certain circumstances": [
+                "TKI (if not a candidate for induction chemotherapy)"
+              ],
+              "For patients in remission": [
+                "Allogeneic HCT (CML-6)",
+                "Consolidation chemotherapy and TKI maintenance for non-candidates for allogeneic HCT"
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

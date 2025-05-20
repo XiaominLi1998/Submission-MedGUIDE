@@ -1,0 +1,36 @@
+{
+  "Progressive Disease": {
+    "Relapse or primary progressive diseaseᵍᵍ": {
+      "Performance Status (PS)": {
+        "PS 0–2": {
+          "Initial Treatment Options": [
+            "Subsequent systemic therapyᵐ,ᵗ",
+            "Palliative symptom managementʳ,ᵉᵉ including localized RTⁿ to symptomatic sites"
+          ],
+          "Response Evaluation": {
+            "Response": {
+              "Action": "Continue until progressionᶠᶠ or development of unacceptable toxicity",
+              "Re-evaluation": {
+                "PS 0–2": [
+                  "Consider subsequent systemic therapyᵐ,ᵗ",
+                  "Palliative symptom managementʳ,ᵉᵉ including localized RTⁿ to symptomatic sites"
+                ],
+                "PS 3–4": "Palliative symptom managementʳ,ᵉᵉ including localized RTⁿ to symptomatic sites"
+              }
+            },
+            "No response or unacceptable toxicity": {
+              "PS 0–2": [
+                "Consider subsequent systemic therapyᵐ,ᵗ",
+                "Palliative symptom managementʳ,ᵉᵉ including localized RTⁿ to symptomatic sites"
+              ],
+              "PS 3–4": "Palliative symptom managementʳ,ᵉᵉ including localized RTⁿ to symptomatic sites"
+            }
+          }
+        },
+        "PS 3–4": {
+          "Therapy": "Palliative symptom managementʳ,ᶠᶠ including localized RTⁿ to symptomatic sites"
+        }
+      }
+    }
+  }
+}

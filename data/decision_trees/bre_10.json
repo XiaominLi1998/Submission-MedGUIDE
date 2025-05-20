@@ -1,0 +1,60 @@
+{
+    "Operable disease: Surgical treatment and adjuvant therapy after preoperative systemic treatment": {
+        "BCS possible": {
+            "Surgical Treatment": {
+                "Procedure": "BCS with surgical axillary staging (BINV-D)",
+                "Options": [
+                    "\u00b1 oncoplastic reconstruction\u207f"
+                ]
+            },
+            "Adjuvant Systemic Therapy and RT": {
+                "Adjuvant systemic therapy (BINV-16)": {
+                    "cN+ and ypN0": [
+                        "Adjuvant whole breast RT \u00b1 boost to the tumor bed\u02b8",
+                        "Strongly consider comprehensive RNI with inclusion of any portion of the undissected axilla at risk.zz"
+                    ],
+                    "Any ypN+": [
+                        "Adjuvant whole breast RT \u00b1 boost to the tumor bed\u02b8",
+                        "Comprehensive RNI with inclusion of any portion of the undissected axilla at risk"
+                    ],
+                    "Any cN0, ypN0": [
+                        "Adjuvant whole breast RT \u00b1 boost to tumor bed\u02b8"
+                    ]
+                }
+            }
+        },
+        "BCS not possible": {
+            "Surgical Treatment": {
+                "Procedure": "Mastectomy and surgical axillary staging (BINV-D)",
+                "Options": [
+                    "\u00b1 reconstruction\u02b7"
+                ]
+            },
+            "Adjuvant Systemic Therapy and RT": {
+                "Adjuvant systemic therapy (BINV-16)": {
+                    "cN+ and ypN0": [
+                        "PMRT",
+                        "Strongly consider PMRT to chest wall and comprehensive RNI with inclusion of any portion of the undissected axilla at risk.zz"
+                    ],
+                    "Any ypN+": [
+                        "PMRT to chest wall",
+                        "Comprehensive RNI with inclusion of any portion of the undissected axilla at risk"
+                    ],
+                    "cT4, any N": [
+                        "RT to chest wall",
+                        "Comprehensive RNI with inclusion of any portion of the undissected axilla at risk"
+                    ],
+                    "cT3, cN0, and ypN0": [
+                        "Consider PMRT to the chest wall",
+                        "Comprehensive RNI with inclusion of any portion of the undissected axilla at risk"
+                    ]
+                },
+                "Adjuvant systemic therapy (BINV-16), no PMRT": {
+                    "Any cN0, ypN0": [
+                        "If axilla was assessed by SLNB or axillary node dissection"
+                    ]
+                }
+            }
+        }
+    }
+}

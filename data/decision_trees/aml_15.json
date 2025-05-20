@@ -1,0 +1,42 @@
+{
+    "Principles of Venetoclax Use with HMA or LDAC": {
+        "Cycle 1": "Venetoclax + HMA or LDAC",
+        "Day 21\u201328": {
+            "BM aspirate and biopsy": {
+                "CR (Response criteria, see AML-I)": {
+                    "Action": "Start cycle 2 on day 29 or later if marrow results not available on day 29"
+                },
+                "MLFS or CRi (Response criteria, see AML-I)": {
+                    "Delay cycle 2": {
+                        "Duration": "up to 14 days",
+                        "Purpose": "allow recovery of ANC >0.5 x 10\u2079/L and platelets >50 x 10\u2079/L",
+                        "Note": "G-CSF may be added"
+                    },
+                    "Then": {
+                        "Action": "Start cycle 2",
+                        "Considerations": "Reduction of venetoclax duration to 21 days",
+                        "Next": {
+                            "Cycle 3 and beyond": [
+                                "Consider further reduction in venetoclax duration (14 days, 7 days, or 5 days) if cytopenias recur",
+                                "Dose modifications to HMA or LDAC may be considered per label"
+                            ]
+                        }
+                    }
+                },
+                "Lack of response (Response criteria, see AML-I)": {
+                    "Action": "Start cycle 2 without delay",
+                    "Then": {
+                        "BM aspirate and biopsy (days 21\u201328)": {
+                            "MLFS or better response (Response criteria, see AML-I)": null,
+                            "Lack of response (Response criteria, see AML-I)": {
+                                "Action": "Continue therapy up to 4 cycles",
+                                "If no response": "See Therapy for Relapsed/Refractory Disease (AML-9)"
+                            }
+                        },
+                        "If disease progression": "See Therapy for Relapsed/Refractory Disease (AML-9)"
+                    }
+                }
+            }
+        }
+    }
+}

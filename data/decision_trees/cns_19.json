@@ -1,0 +1,67 @@
+{
+  "Follow-up": {
+    "Brain MRI": [
+      "Every 3 months until 2 years",
+      "Every 6 months until 5 years",
+      "Then annually indefinitely"
+    ],
+    "Additional guidance": [
+      "For patients with previous spine disease: concurrent spine imaging and CSF sampling as clinically indicated",
+      "For patients with prior ocular involvement: concurrent ophthalmologic follow-up as clinically indicated"
+    ]
+  },
+  "Relapsed or Refractory Primary CNS Lymphoma": {
+    "Any type of treatment history": {
+      "Treatment options": [
+        "Consider clinical trial",
+        "Consider systemic therapy (systemic and/or intra-CSF)",
+        "Consider high-dose therapy with stem cell rescue (category 2B)",
+        "Consider focal irradiation",
+        "Palliative/best supportive care"
+      ]
+    },
+    "Prior WBRT": {
+      "Treatment options": [
+        "Consider clinical trial",
+        "Consider systemic therapy (systemic and/or intra-CSF)",
+        "Consider high-dose therapy with stem cell rescue (category 2B)",
+        "Consider focal irradiation",
+        "Palliative/best supportive care"
+      ]
+    },
+    "Prior high-dose methotrexate-based regimen without prior RT": {
+      "Previous response with long duration (≥12 months)": {
+        "Treatment options": [
+          "Re-treat with high-dose methotrexate ± other systemic therapy",
+          "Other systemic therapy",
+          "Consider high-dose therapy with stem cell rescue (category 2B)",
+          "Palliative/best supportive care"
+        ]
+      },
+      "No response or short duration (<12 months)": {
+        "Treatment options": [
+          "Other systemic therapy",
+          "WBRT or involved-field RT ± other systemic therapy",
+          "Consider high-dose therapy with stem cell rescue (category 2B)",
+          "Palliative/best supportive care"
+        ]
+      }
+    },
+    "Prior high-dose systemic therapy with stem cell rescue": {
+      "Previous response with long duration (≥12 months)": {
+        "Treatment options": [
+          "Consider second high-dose systemic therapy with stem cell rescue",
+          "Other systemic therapy",
+          "Best supportive care"
+        ]
+      },
+      "No response or short duration (<12 months)": {
+        "Treatment options": [
+          "WBRT or involved-field RT",
+          "Other systemic therapy",
+          "Palliative/best supportive care"
+        ]
+      }
+    }
+  }
+}

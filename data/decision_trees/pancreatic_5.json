@@ -1,0 +1,53 @@
+{
+  "Locally Advanced Disease": {
+    "First-Line Therapy": {
+      "Good or intermediate performance status (PS)": {
+        "Options": [
+          "Clinical trial (preferred)",
+          "Systemic therapy†",
+          "Induction chemotherapy† (preferably 4–6 mo) followed by chemoradiation†,ᵘ,ᵃᵃ,ᵇᵇ or stereotactic body RT (SBRT)ᵘ in selected patients (locally advanced without systemic metastasesᶜᶜ)",
+          "Chemoradiation†,ᵘ or SBRTᵘ in patients who are not candidates for induction chemotherapy"
+        ]
+      },
+      "Poor PS": {
+        "Options": [
+          "Palliative and best supportive careˢ",
+          "Consider single-agent chemotherapy† or palliative RTᵘ"
+        ]
+      }
+    },
+    "Subsequent Therapy": {
+      "If no disease progression": {
+        "Performance status: Good or intermediate PS": {
+          "Options": [
+            "Consider resectionʳ if feasible",
+            "Continue systemic therapy†",
+            "Observe",
+            "Clinical trial"
+          ],
+          "If resection performed": "Adjuvant therapy, if clinically indicated†",
+          "If observed": "Continued surveillance"
+        }
+      },
+      "If disease progression": {
+        "Performance status: Good PS": {
+          "Options": [
+            "Clinical trial (preferred)",
+            "Systemic therapy†",
+            "Chemoradiation†,ᵘ or SBRTᵘ if not previously given and if primary site is the sole site of progression"
+          ]
+        },
+        "Performance status: Declining PS": {
+          "Therapy": "Palliative and best supportive careˢ"
+        },
+        "Performance status: Poor PS and disease progression": {
+          "Options": [
+            "Palliative and best supportive careˢ",
+            "Consider single-agent chemotherapy† or possibly targeted therapy† based on molecular profilingʲ, as clinically indicated",
+            "Palliative RTᵘ"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Clinical Stage IIB–IVA": {
+    "Step": "Further radiologic workup for metastatic disease as clinically indicated",
+    "Workup result": {
+      "Negative for distant metastasis": {
+        "Primary Treatment": [
+          "EBRT (external beam radiation therapy)",
+          "Concurrent platinum-containing chemotherapy",
+          "Brachytherapy",
+          "± Pembrolizumab (category 1 for FIGO 2014 Stage IIIA, IIIB, and IVA; category 2B for select FIGO 2018 stage III–IVA)"
+        ]
+      },
+      "Positive for distant metastasis": {
+        "Step": "Biopsy suspicious areas as indicated",
+        "Biopsy result": {
+          "Negative": {
+            "Primary Treatment": [
+              "EBRT (external beam radiation therapy)",
+              "Concurrent platinum-containing chemotherapy",
+              "Brachytherapy",
+              "± Pembrolizumab (category 1 for FIGO 2014 Stage IIIA, IIIB, and IVA; category 2B for select FIGO 2018 stage III–IVA)"
+            ]
+          },
+          "Positive": {
+            "Primary Treatment": [
+              "Systemic therapy",
+              "± Individualized RT"
+            ]
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2821
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 \{\
+  "Site of Recurrence": \{\
+    "Confirmed nodal or distant recurrence": \{\
+      "Isolated inguinofemoral/pelvic LN recurrence": \{\
+        "Step": "Consider resection of clinically enlarged and suspicious LN(s)",\
+        "Therapy for Recurrence": \{\
+          "No prior EBRT": \{\
+            "Action": [\
+              "EBRT + concurrent chemotherapy",\
+              "\uc0\u8594  Surveillance (VULVA-8)"\
+            ]\
+          \},\
+          "Prior EBRT": \{\
+            "Action": [\
+              "Systemic therapy and/or",\
+              "Selective EBRT if feasible or",\
+              "Best supportive care (NCCN Guidelines for Palliative Care)"\
+            ]\
+          \}\
+        \}\
+      \},\
+      "Distant metastasis or Prior pelvic EBRT": \{\
+        "Therapy for Recurrence": [\
+          "Systemic therapy and/or",\
+          "Selective EBRT if feasible or",\
+          "Best supportive care (NCCN Guidelines for Palliative Care)"\
+        ]\
+      \}\
+    \}\
+  \}\
+\}\
+}

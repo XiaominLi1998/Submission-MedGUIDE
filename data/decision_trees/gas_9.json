@@ -1,0 +1,54 @@
+{
+    "Peritoneal only metastatic disease (including positive cytology)": {
+      "Workup (if not done previously)": [
+        "H&P",
+        "Staging with CT chest/abdomen/pelvis with oral and IV contrast",
+        "Consider diagnostic laparoscopy",
+        "FDG-PET/CT as clinically indicated",
+        "Pathology review"
+      ],
+      "Treatment": {
+        "Systemic therapy": {
+          "Regimen": "GAST-F 4 of 20",
+          "Duration": "Minimum of 3 months"
+        },
+        "Response Assessment": {
+          "Restaging with": [
+            "CT scan",
+            "Diagnostic laparoscopy with washings with documented peritoneal cancer index (PCI) ± biopsy",
+            "Consider FDG-PET/CT",
+            "Consider EGD"
+          ],
+          "Response Categories": {
+            "Low PCI (≤10), stable or improved disease, no metastatic progression, no extraperitoneal disease": {
+              "Next step": {
+                "Multidisciplinary consultation": {
+                  "Complete cytoreduction predicted": {
+                    "Additional Treatment": [
+                      "Clinical trial",
+                      "Gastrectomy with cytoreductive surgery, and intraperitoneal chemotherapy (IC)/hyperthermic intraperitoneal chemotherapy (HIPEC)",
+                      "Continue systemic therapy"
+                    ]
+                  },
+                  "Incomplete cytoreduction predicted": {
+                    "Additional Treatment": [
+                      "Clinical trial",
+                      "Continue systemic therapy"
+                    ]
+                  }
+                }
+              }
+            },
+            "High PCI (>10), progression of disease, extraperitoneal metastases": {
+              "Additional Treatment": [
+                "Systemic therapy",
+                "Clinical trial",
+                "Best supportive care"
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+  

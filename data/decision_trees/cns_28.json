@@ -1,0 +1,34 @@
+{
+    "Recurrence": {
+      "Relapse": {
+        "Stable systemic disease or reasonable systemic treatment options": {
+          "Treatment Options": [
+            "Surgery",
+            "SRS",
+            "HA-WBRT + memantine (if not previously administered)",
+            "WBRT without HA ± memantine (if not previously administered)",
+            "Laser thermal ablation",
+            "Systemic therapy"
+          ]
+        },
+        "Systemic disease progression with limited systemic treatment options and poor PS": {
+          "No prior WBRT": {
+            "Treatment Options": [
+              "HA-WBRT + memantine",
+              "WBRT without HA ± memantine",
+              "SRS in select patients",
+              "Palliative/best supportive care"
+            ]
+          },
+          "Prior WBRT": {
+            "Treatment Options": [
+              "Reirradiation (if prior positive response to RT)",
+              "SRS in select patients",
+              "Palliative/best supportive care"
+            ]
+          }
+        }
+      }
+    }
+  }
+  

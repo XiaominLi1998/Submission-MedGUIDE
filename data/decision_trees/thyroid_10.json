@@ -1,0 +1,40 @@
+{
+  "Treatment": {
+    "Total thyroidectomy with RAI": {
+      "Disease Monitoring": [
+        "Physical examination",
+        "Neck ultrasound at 6–12 months",
+        "TSH",
+        "Tg measurement and Tg abᵉᵉ"
+      ],
+      "Findings": {
+        "Rising or new Tgᶠᶠ": {
+          "Management": [
+            "Consider additional imaging (CT neck/chest), PET, or RAI imaging"
+          ],
+          "Next Step": "Recurrent Disease (PAP-9)"
+        },
+        "Abnormal imaging and/or rising Tg": {
+          "Management": [
+            "Consider biopsy of suspicious areas on imaging with Tg washout",
+            "Follow-up imaging of known iodine-avid disease with cross-sectional imaging (CT or MRI)"
+          ],
+          "Next Step": "Recurrent Disease (PAP-9)"
+        },
+        "No evidence of disease": {
+          "Management": [
+            "Physical examination",
+            "TSHᵏ",
+            "Tg measurement and Tg ab annually if stable",
+            "Neck ultrasound annually for 5 years, then less often if imaging and Tg measurement and Tg ab stable",
+            "See NCCN Guidelines for Survivorship"
+          ],
+          "Next Step": [
+            "Recurrent Disease (PAP-9)",
+            "or Metastatic Disease (PAP-10)"
+          ]
+        }
+      }
+    }
+  }
+}

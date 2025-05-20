@@ -1,0 +1,41 @@
+{
+  "Incidental finding: subsolid nodule(s) on chest CT": {
+    "Solitary pure ground-glass nodules": {
+      "<6 mm": {
+        "Follow-up": "No routine follow-up"
+      },
+      "³6 mm": {
+        "Follow-up": [
+          "CT at 6Ð12 mo to confirm no growth or development of a solid component",
+          "Then CT every 2 y until 5 y"
+        ]
+      }
+    },
+    "Solitary part-solid nodules": {
+      "<6 mm": {
+        "Follow-up": "No routine follow-up"
+      },
+      "³6 mm": {
+        "Follow-up": [
+          "CT at 3Ð6 mo to confirm no growth or change in solid component",
+          "Then annual CT for 5 y",
+          "If solid component ³6 mm, consider FDG-PET/CT or biopsy"
+        ]
+      }
+    },
+    "Multiple subsolid nodules": {
+      "<6 mm": {
+        "Follow-up": [
+          "CT at 3Ð6 mo",
+          "If stable, consider CT at 2 and 4 y"
+        ]
+      },
+      "³6 mm": {
+        "Follow-up": [
+          "CT at 3Ð6 mo",
+          "Subsequent management based on most suspicious nodule(s)"
+        ]
+      }
+    }
+  }
+}

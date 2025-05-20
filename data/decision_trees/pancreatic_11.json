@@ -1,0 +1,23 @@
+{
+  "Metastatic Disease Following Surgery": {
+    "Metastatic disease with or without local recurrenceʲʲ,ˡˡ": {
+      "≥6 mo from completion of primary therapy": {
+        "Recurrence Therapyᵏᵏ": [
+          "Clinical trial (preferred)",
+          "Repeat systemic therapy previously administered†",
+          "Alternate systemic therapy (not previously used)†",
+          "Palliative and best supportive careˢ"
+        ]
+      },
+      "<6 mo from completion of primary therapy": {
+        "Recurrence Therapyᵏᵏ": [
+          "Clinical trial (preferred)",
+          "Switch to gemcitabine-based systemic chemotherapy† (if fluoropyrimidine-based therapy previously used)",
+          "Switch to fluoropyrimidine-based systemic chemotherapy† (if gemcitabine-based therapy previously used)",
+          "Alternate systemic therapy (not previously used)†",
+          "Palliative and best supportive careˢ"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "Post-lobectomyᵐ": {
+    "Initial Assessment": [
+      "Thyroid and neck ultrasound (including central and lateral cervical nodal compartments), if not previously done",
+      "Biopsy suspicious lymph nodes or contralateral lesions that meet sonographic criteria by ATA and TI-RADSⁿ"
+    ],
+    "Findings": {
+      "Any of the following": [
+        "Gross positive resection margins",
+        "Gross extra-thyroidal extension",
+        "Confirmed nodal metastasish",
+        "Confirmed contralateral disease",
+        "Vascular invasion"
+      ],
+      "Primary Treatment": [
+        "Completion of thyroidectomy",
+        "Perform therapeutic neck dissection of involved compartments for clinically apparent/biopsy-proven disease if not previously done"
+      ],
+      "Next Step": "Postsurgical Evaluation (PAP-3)"
+    },
+    "Findings 2": {
+      "Any of the following": [
+        "Tumor >4 cm",
+        "Lymphatic invasion",
+        "Macroscopic multifocal disease (>1 cm)",
+        "Poorly differentiated and differentiated high-grade carcinoma"
+      ],
+      "Primary Treatment": [
+        "Completion of thyroidectomy",
+        "or Disease monitoringʲ (category 2B)"
+      ],
+      "Additional Management": "Consider levothyroxine therapy to keep thyroid stimulating hormone (TSH) low or normalk"
+    },
+    "Findings 3": {
+      "All of the following": [
+        "Negative resection margins",
+        "No contralateral lesion",
+        "No suspicious lymph node"
+      ],
+      "or": "NIFTPⁱ",
+      "Primary Treatment": [
+        "Disease monitoringʲ"
+      ],
+      "Additional Management": "Consider levothyroxine therapy to keep TSH normalk",
+      "Next Step": "Disease Monitoring and Maintenance (PAP-7)"
+    }
+  }
+}

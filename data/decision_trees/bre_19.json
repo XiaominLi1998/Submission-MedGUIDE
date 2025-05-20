@@ -1,0 +1,33 @@
+{
+  "Reconstruction based on prior history of RT": {
+    "Recurrent carcinoma after breast conservation including RT": {
+      "Step": "Assess soft tissue preoperatively and intraoperatively",
+      "If soft tissue is adequate": {
+        "Options": [
+          "Autologous (preferred) or combination",
+          "1 stage: direct to implant",
+          "2 stage: tissue expander followed by implant"
+        ]
+      },
+      "If soft tissue is inadequate": {
+        "Options": [
+          "Autologous (preferred) or combination"
+        ]
+      }
+    },
+    "Delayed reconstruction after mastectomy and RT": {
+      "Step": "Assess soft tissue preoperatively and intraoperatively",
+      "If soft tissue is adequate": {
+        "Options": [
+          "Autologous (preferred) or combination",
+          "2 stage: tissue expander followed by implant or autologous tissue"
+        ]
+      },
+      "If soft tissue is inadequate": {
+        "Options": [
+          "Autologous (preferred) or combination"
+        ]
+      }
+    }
+  }
+}

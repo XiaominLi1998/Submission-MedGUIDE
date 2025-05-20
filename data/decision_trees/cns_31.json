@@ -1,0 +1,37 @@
+{
+    "CSF cytology negative": {
+      "Treatment": "Continue on current therapy (systemic or intra-CSF) and re-evaluate CSF cytology every 4–8 weeks",
+      "Next step": {
+        "Maintenance therapy": true,
+        "Monitor CSF cytology": "every 4–8 weeks"
+      }
+    },
+    "CSF cytology positive": {
+      "Pathway A: Clinically stable or improving, no radiologic progression": {
+        "Option 1": "Continue current therapy (systemic or intra-CSF) for 4 weeks",
+        "Option 2": "Consider switching therapy and treat for 4 weeks before re-evaluating CSF cytology",
+        "Reassessment": {
+          "If negative or persistent positive cytology but clinically stable": {
+            "Treatment": [
+              "Maintenance therapy",
+              "Monitor CSF cytology every 4–8 weeks"
+            ]
+          },
+          "If continually positive cytology and clinical or radiologic progression": {
+            "Treatment": [
+              "Standard RT to symptomatic sites",
+              "Palliative/best supportive care"
+            ]
+          }
+        }
+      },
+      "Pathway B: Evidence of clinical or radiologic progression": {
+        "Treatment": "Consider switching therapy (systemic or intra-CSF)",
+        "Next step": [
+          "Standard RT to symptomatic sites",
+          "Palliative/best supportive care"
+        ]
+      }
+    }
+  }
+  

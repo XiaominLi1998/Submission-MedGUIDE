@@ -1,0 +1,32 @@
+{
+  "Structurally persistent/recurrent locoregional or distant metastatic RAI-refractory disease": {
+    "Initial evaluation": {
+      "Somatic testing for actionable mutations": [
+        "ALK",
+        "NTRK",
+        "BRAF",
+        "RET gene fusions",
+        "dMMR",
+        "MSI",
+        "TMB"
+      ],
+      "Brain imaging (CT or MRI with contrast)": "For CNS symptoms or prior to starting systemic therapy"
+    },
+    "Disease location": {
+      "Unresectable locoregional recurrent/persistent disease": "See treatment path below",
+      "Soft tissue metastases (e.g., lung, liver, muscle) excluding CNS metastases": "See treatment path below",
+      "Bone metastases": "See FOLL-10",
+      "CNS metastases": "See FOLL-11"
+    },
+    "Treatment (for unresectable locoregional disease and soft tissue metastases)": {
+      "Options": [
+        "Consider clinical trial",
+        "Consider systemic therapy for progressive and/or symptomatic disease (Principles of Systemic Therapy [THYR-B])",
+        "Continue to suppress TSH with levothyroxine",
+        "Consider resection of distant metastases and/or EBRT or other local therapies when available to metastatic lesions if progressive and/or symptomatic (Treatment of Locoregional Recurrence [FOLL-8])",
+        "Disease monitoring is often appropriate in asymptomatic patients with indolent disease assuming no brain metastasis (FOLL-6)",
+        "Best supportive care (see NCCN Guidelines for Palliative Care)"
+      ]
+    }
+  }
+}

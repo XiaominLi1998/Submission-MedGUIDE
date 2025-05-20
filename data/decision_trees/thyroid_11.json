@@ -1,0 +1,41 @@
+{
+  "Recurrent Disease": {
+    "Initial Presentation": [
+      "Rising or newly elevated Tg and negative imaging",
+      "Non-resectable tumors",
+      "Non-radioiodine responsiveᵍᵍ"
+    ],
+    "Management": {
+      "Action": "Suppress TSH with levothyroxineᵏ",
+      "Follow-up": "Continue surveillance with unstimulated Tg, ultrasound, and other imaging as clinically indicated (PAP-7)"
+    }
+  },
+  "Locoregional Recurrence": {
+    "Next Step": "Consider iodine total body scan",
+    "If resectable": {
+      "Management": [
+        "Surgery (preferred)ⁱⁱ",
+        "Consider RAI therapyʰʰ if preoperative or postoperative radioiodine imaging is positive",
+        "Disease monitoring for non-progressive disease that is stable and distant from critical structures"
+      ]
+    },
+    "If unresectable, non-radioiodine-avid, and progressive disease": {
+      "Options": [
+        "RTᑫ",
+        "Systemic therapies (Treatment [PAP-10])"
+      ]
+    },
+    "If limited burden nodal disease": {
+      "Options": [
+        "Consider local therapies when available (e.g., ethanol ablation, radiofrequency ablation [RFA])"
+      ]
+    }
+  },
+  "Metastatic Disease": {
+    "Options": [
+      "RAI therapy for iodine-avid diseaseᑫ",
+      "Local therapies when availableʲʲ",
+      "If RAI-refractory, see Treatment (PAP-10)"
+    ]
+  }
+}

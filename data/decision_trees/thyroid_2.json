@@ -1,0 +1,23 @@
+{
+  "Molecular Diagnostic Results": {
+    "Initial Cytology": "AUS (Bethesda III) or Follicular neoplasm (Bethesda IV)",
+    "Molecular diagnostics indicate benign lesionᵇ": {
+      "Treatment": [
+        "Nodule surveillance⁹,ʲ"
+      ]
+    },
+    "Molecular diagnostics not informative or with insufficient or degraded sample": {
+      "Treatment Options": [
+        "Nodule surveillance⁹,ʲ",
+        "Consider lobectomy in select situations for definitive diagnosis/treatment",
+        "Consider repeat biopsy"
+      ]
+    },
+    "Molecular diagnostics suggestive of malignancy": {
+      "Treatment Options": [
+        "Consider lobectomy or total thyroidectomy (depending on molecular results)ᵇ for definitive diagnosis/treatment",
+        "Nodule surveillance⁹,ʲ"
+      ]
+    }
+  }
+}

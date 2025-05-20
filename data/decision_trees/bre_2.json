@@ -1,0 +1,43 @@
+{
+    "Locoregional Treatment of cT1\u20133, cN0 or cN+, M0 Disease: Mastectomy \u00b1 PMRT": {
+        "Surgery": {
+            "Procedure": "Nipple-sparing, skin-sparing, or total mastectomy with surgical axillary staging\u1d4f,\u02e1 (category 1)",
+            "Options": [
+                "\u00b1 reconstruction\u02b7"
+            ]
+        },
+        "Adjuvant Systemic Therapy": {
+            "Guidelines": [
+                "See BINV-4 to determine whether adjuvant systemic therapy is indicated.",
+                "RT is typically given after systemic therapy.",
+                "See BINV-I for sequencing of systemic therapy and RT."
+            ]
+        },
+        "Pathologic Nodal Status": {
+            "Negative axillary nodes and \u2264pT2 (\u22645 cm) and margins \u22651 mm": {
+                "RT": "No RT\u02b8"
+            },
+            "Negative axillary nodes and \u2264pT2 (\u22645 cm) and negative margins but <1 mm": {
+                "RT": [
+                    "Consider PMRT\u2075 to chest wall",
+                    "For patients with additional high-risk features\u02b8, consider addition of comprehensive RNI (including any portion of the undissected axilla at risk)"
+                ]
+            },
+            "Negative axillary nodes and pT3 (>5 cm)": {
+                "RT": "Consider PMRT\u2075 to chest wall \u00b1 comprehensive RNI (including any portion of the undissected axilla at risk)"
+            },
+            "1\u20133 positive axillary nodes\u02e3": {
+                "RT": "Strongly consider PMRT\u2075 to chest wall + comprehensive RNI (including any portion of the undissected axilla at risk)"
+            },
+            "\u22654 positive axillary nodes\u02b3": {
+                "RT": "PMRT\u2075 to chest wall + comprehensive RNI (including any portion of the undissected axilla at risk) (category 1)"
+            },
+            "Margins positive": {
+                "RT": [
+                    "Re-excision to negative margins is preferred",
+                    "If not feasible, then strongly consider PMRT\u2075 to chest wall \u00b1 comprehensive RNI (including any portion of the undissected axilla at risk)"
+                ]
+            }
+        }
+    }
+}

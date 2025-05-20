@@ -1,0 +1,34 @@
+{
+    "Confirm diagnosis": {
+      "Flat neoplasia (no nodule or mass)": {
+        "Diagnosis": ["HGD", "Early carcinoma"],
+        "Treatment": [
+          "ER (with either ESD or EMR) ± ablation",
+          "Ablation"
+        ]
+      },
+      "Visible lesion present": {
+        "Diagnosis": ["HGD", "Early carcinoma"],
+        "Nodule/mass size < 2 cm": {
+          "Treatment": "ER (with either ESD or EMR) ± ablation",
+          "Next step": "Assess for curative resection"
+        },
+        "Nodule/mass size ≥ 2 cm": {
+          "Biopsy features": {
+            "No high-risk biopsy features": {
+              "Treatment": [
+                "ESD ± ablation",
+                "Esophagectomy (for patients who are medically fit)"
+              ],
+              "Next step": "Assess for curative resection"
+            },
+            "Presence of high-risk biopsy features (poor differentiation or LVI)": {
+              "Treatment": "Consider ER if technically feasible to accurately stage",
+              "Next step": "Assess for curative resection"
+            }
+          }
+        }
+      }
+    }
+  }
+  

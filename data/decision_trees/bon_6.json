@@ -1,0 +1,22 @@
+{
+    "Surveillance": [
+        "Physical exam",
+        "Imaging of primary site, timing, and modality, as clinically indicated (e.g., x-ray, MRI with and without contrast \u00b1 CT with contrast) for up to 10 years",
+        "Chest imaging\u1d4d every 6 months may include CT annually for 5 years, then annually thereafter, as clinically indicated"
+    ],
+    "Recurrence\u1da0": {
+        "Local Recurrence": {
+            "Treatment": [
+                "Surgical excision\u1d47 and/or RT\u1d48",
+                "Ablation and/or Systemic therapy\u02b0",
+                "Clinical trial"
+            ]
+        },
+        "Metastatic Recurrence": {
+            "Treatment": [
+                "Systemic therapy\u02b0,\u2071 and/or Surgical excision\u1d47 and/or RT\u1d48",
+                "Clinical trial and/or Best supportive care"
+            ]
+        }
+    }
+}

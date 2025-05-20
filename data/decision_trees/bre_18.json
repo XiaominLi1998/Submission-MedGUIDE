@@ -1,0 +1,20 @@
+{
+  "Reconstruction based on planned adjuvant RT": {
+    "Implant-based reconstruction planned": {
+      "2 stage: tissue expander followed by permanent implant (prepectoral, partial submuscular, or total submuscular tissue expander)": {
+        "Options": [
+          "Tissue expansion followed by exchange to implant prior to the initiation of RT",
+          "Tissue expansion followed by RT and delayed exchange to implant ≥6 months after completion of RT"
+        ]
+      },
+      "1 stage: direct to implant": {}
+    },
+    "Autologous reconstruction planned": {
+      "Options": [
+        "Immediate autologous reconstruction",
+        "Delayed reconstruction ≥6 months after the completion of RT",
+        "Place tissue expander at the time of surgery, followed by expansion, RT, and delayed autologous reconstruction ≥6 months after completion of RT"
+      ]
+    }
+  }
+}

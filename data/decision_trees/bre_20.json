@@ -1,0 +1,43 @@
+{
+  "Reconstruction based on no or unknown history of RT or unknown need for postmastectomy RT": {
+    "Immediate placement of tissue expander at the time of mastectomy (prepectoral, partial submuscular, total submuscular tissue expander placement)": {
+      "Adjuvant chemotherapy planned": {
+        "Tissue expansion during chemotherapy": {
+          "RT planned": {
+            "Options": [
+              "Exchange tissue expander to permanent implant (prior to initiation of RT, if no delay to initiation of RT or ≥6 months after RT)",
+              "Conversion to autologous tissue reconstruction ≥6 months after RT"
+            ]
+          },
+          "No RT planned": {
+            "Options": [
+              "Exchange tissue expander to implant",
+              "Convert to autologous tissue reconstruction"
+            ]
+          }
+        }
+      },
+      "No adjuvant chemotherapy planned": {
+        "RT planned": {
+          "Tissue expansion followed by": [
+            "RT; conversion to permanent implant or autologous tissue ≥6 months after completion of RT (category 2B)",
+            "Exchange to permanent implant before RT (if no delay to initiation of RT)"
+          ]
+        },
+        "No RT planned": {
+          "Tissue expansion followed by": [
+            "Exchange to permanent implant",
+            "Autologous tissue reconstruction"
+          ]
+        }
+      }
+    },
+    "1 stage: direct to implant OR immediate autologous reconstruction or latissimus dorsi with implant at time of mastectomy": {
+      "Action": "Consider revisional surgeries to the ipsilateral or contralateral breast after RT if needed"
+    },
+    "Delayed reconstruction": {
+      "RT required": "Reconstruction Based on History of RT (BINV-H 3)",
+      "RT not required": "Reconstruction with implant, autologous tissue, or a combination"
+    }
+  }
+}

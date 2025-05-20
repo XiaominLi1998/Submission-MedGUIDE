@@ -1,0 +1,48 @@
+{
+    "Clinical Staging": {
+        "CIS, Ta, T1": {
+            "Additional Workup": "Repeat TUR\u1d48 followed by intraurethral chemotherapy or BCG\u1d49 (selected cases)"
+        },
+        "T2": {
+            "Male": {
+                "Pendulous urethra": {
+                    "Primary Treatment": [
+                        "Distal urethrectomy\u1da0 or Partial penectomy"
+                    ],
+                    "Adjuvant Treatment": {
+                        "Positive margin": [
+                            "Additional surgery or Chemoradiotherapy\u1d4d,\u02b0 (preferred) or RT\u02b0"
+                        ],
+                        "Negative margin": "Follow-up imaging with cystoscopy\u1d4f"
+                    },
+                    "Therapy for Recurrence": [
+                        "Systemic therapy\u02b2,\u02e1,\u1d50 and/or Total penectomy\u207f and/or RT\u02b0,\u207f"
+                    ]
+                },
+                "Bulbar urethra": {
+                    "Primary Treatment": "Urethrectomy\u1da0 \u00b1 cystoprostatectomy",
+                    "Adjuvant Treatment": {
+                        "pT1/pT2 and pN0": "Follow-up imaging with cystoscopy\u1d4f",
+                        "pT3/pT4 or pN1/pN2": "Consider chemotherapy\u2071,\u02b2 or Chemoradiotherapy\u1d4d,\u02b0"
+                    },
+                    "Therapy for Recurrence": [
+                        "Systemic therapy\u02b2,\u02e1,\u1d50 and/or RT\u02b0,\u207f"
+                    ]
+                }
+            },
+            "Female": {
+                "Primary Treatment": [
+                    "Chemoradiotherapy\u1d4d,\u02b0",
+                    "or Urethrectomy\u1da0 + cystectomy",
+                    "or Distal urethrectomy\u1da0 (depending on tumor location)"
+                ],
+                "Adjuvant Treatment": "Follow-up imaging with cystoscopy\u1d4f",
+                "Therapy for Recurrence": [
+                    "Systemic therapy\u02b2,\u02e1,\u1d50",
+                    "or Chemoradiotherapy\u1d4d,\u02b0 (if no prior RT)",
+                    "or Pelvic exenteration (category 2B)"
+                ]
+            }
+        }
+    }
+}

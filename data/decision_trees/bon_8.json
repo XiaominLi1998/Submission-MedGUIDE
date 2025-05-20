@@ -1,0 +1,50 @@
+{
+    "Stable/Improved Disease Following Primary Treatment": {
+        "Local Control Therapy": {
+            "Options": [
+                {
+                    "Wide excision\u1d47,\u1d4f": {
+                        "Margins": {
+                            "Positive margins": [
+                                "Continue chemotherapy\u02b0,\u1d50 (category 1) followed by RT\u207f",
+                                "or RT\u207f and chemotherapy\u02b0,\u1d50 (category 1, for chemotherapy)"
+                            ],
+                            "Negative margins\u02e1": [
+                                "Chemotherapy\u02b0,\u1d50 (category 1)",
+                                "Consider RT\u207f for pelvic tumors"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "Definitive RT\u207f and chemotherapy\u02b0,\u1d50": null
+                },
+                {
+                    "Amputation\u1d47 in selected cases": [
+                        "Postoperative chemotherapy\u02b0 (category 1)",
+                        "Consider RT\u207f depending on margin status"
+                    ]
+                }
+            ]
+        },
+        "Adjuvant Treatment/Additional Therapy": "Follows respective local control therapy approach",
+        "Surveillance": [
+            "Physical exam",
+            "Contrast-enhanced MRI \u00b1 CT of primary site",
+            "Chest imaging (x-ray or CT\u1d49) every 3 months",
+            "X-rays of primary site",
+            "Complete blood count (CBC) and other laboratory studies as indicated",
+            "Increase intervals for physical exam, imaging of primary site and chest after 24 months and annually after 5 years, as clinically indicated (indefinitely) (category 2B)",
+            "Consider FDG-PET/CT (head-to-toe) or bone scan"
+        ],
+        "Progressive Disease/Relapse": {
+            "Relapse": "Chemotherapy\u02b0 \u00b1 RT\u207f \u00b1 surgery"
+        }
+    },
+    "Progressive Disease Following Primary Treatment": {
+        "Management": [
+            "Consider RT\u207f and/or surgery to primary site for local control or palliation",
+            "Chemotherapy\u02b0 or Best supportive care"
+        ]
+    }
+}

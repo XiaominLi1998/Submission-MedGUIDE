@@ -1,0 +1,32 @@
+{
+  "Follow-up": {
+    "Brain MRI schedule": [
+      "Every 3 months for 2 years",
+      "Then every 6–12 months for 5–10 years",
+      "Then every 1–2 years or as clinically indicated"
+    ],
+    "Spine imaging": "For patients with previous spine disease, perform concurrent spine imaging as clinically indicated",
+    "If recurrent disease": {
+      "Clinical staging": [
+        "Brain and spine MRI",
+        "CSF analysis"
+      ],
+      "Findings": {
+        "Localized brain recurrence": {
+          "Surgery": "Maximum safe resection",
+          "Post-surgical imaging": "Brain and spine MRI",
+          "Treatment for recurrence": [
+            "Systemic therapy and/or Additional radiation after resection",
+            "High-dose systemic therapy with autologous stem cell reinfusion"
+          ]
+        },
+        "Disseminated disease": {
+          "Treatment for recurrence": [
+            "Systemic therapy",
+            "Palliative/best supportive care, including focal radiation if indicated"
+          ]
+        }
+      }
+    }
+  }
+}
